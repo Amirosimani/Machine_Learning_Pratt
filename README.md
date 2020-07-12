@@ -32,7 +32,8 @@ By the end of the course, students will be able to:
 | Week    | Title                                                               | Readings (required) | Readings (optional) | Lab                               |
 |---------|---------------------------------------------------------------------|---------------------|---------------------|-----------------------------------|
 | Week 1  | Introduction                                                        |                     |                     | Getting started with Python & Git |
-| Week 2  | Machine learning, data, programming                                 |    * a <br/> * b <br/> * c      |                     |                                   |
+| Week 2  | Machine learning, data, programming                                 |    * Gideon Lewis-Kraus, [“The Great A.I. Awakening”][1_01] <br/> * Liza Daly, [“AI Literacy: The basics of machine learning”][1_02]
+ <br/> * Meredith Broussard, Artificial Unintelligence, ch.2-3 (13-39) – via LMS <br/> * Siddhartha Mukherjee, [“AI Versus MD”][1_04]     |                     |                                   |
 | Week 3  | Classification                                                      |                     |                     |                                   |
 | Week 4  | Classification continued; regression; gradient descent              |                     |                     |                                   |
 | Week 5  | Model, software, abstraction; data prep and features; evaluation    |                     |                     |                                   |
@@ -59,4 +60,13 @@ Additional resources including technical tutorials, example projects and dataset
 ### Revisions to the Syllabus
 
 All changes will be communicated in class and the updated syllabus will be uploaded on LMS. This version is current as of August 26, 2019 September 11, 2019.
+
+
+
+
+[1_01]: <http://web.archive.org/web/20161215073155/https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html>
+[1_02]: <https://worldwritable.com/ai-literacy-the-basics-of-machine-learning-2e20f93e34b4>
+[1_03]: <>
+[1_4]: <http://web.archive.org/web/20170427141526/http://www.newyorker.com/magazine/2017/04/03/ai-versus-md>
+
 
