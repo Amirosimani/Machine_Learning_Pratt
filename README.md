@@ -32,7 +32,7 @@ By the end of the course, students will be able to:
 | Week    | Title                                                               | Readings (required) | Readings (optional) | Lab                               |
 |---------|---------------------------------------------------------------------|---------------------|---------------------|-----------------------------------|
 | Week 1  | Introduction                                                        |                     |                     | Getting started with Python & Git |
-| Week 2  | Machine learning, data, programming                                 |    * a * b * c      |                     |                                   |
+| Week 2  | Machine learning, data, programming                                 |    * a <br/> * b <br/> * c      |                     |                                   |
 | Week 3  | Classification                                                      |                     |                     |                                   |
 | Week 4  | Classification continued; regression; gradient descent              |                     |                     |                                   |
 | Week 5  | Model, software, abstraction; data prep and features; evaluation    |                     |                     |                                   |
