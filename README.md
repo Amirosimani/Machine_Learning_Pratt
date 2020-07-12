@@ -27,4 +27,36 @@ By the end of the course, students will be able to:
 •	execute a machine learning experiment using openly available tools
 •	support the design of their experiment by discussing both the technical aspect and the topic’s significance
 
-### Course Schedule
+### Course Schedule:
+
+| Week    | Title                                                               | Readings (required) | Readings (optional) | Lab                               |
+|---------|---------------------------------------------------------------------|---------------------|---------------------|-----------------------------------|
+| Week 1  | Introduction                                                        |                     |                     | Getting started with Python & Git |
+| Week 2  | Machine learning, data, programming                                 |                     |                     |                                   |
+| Week 3  | Classification                                                      |                     |                     |                                   |
+| Week 4  | Classification continued; regression; gradient descent              |                     |                     |                                   |
+| Week 5  | Model, software, abstraction; data prep and features; evaluation    |                     |                     |                                   |
+| Week 6  | Project planning                                                    |                     |                     |                                   |
+| Week 7  | NO CLASS - Midterm break                                            |                     |                     |                                   |
+| Week 8  | Neural networks                                                     |                     |                     |                                   |
+| Week 9  | Neural networks continued; bias                                     |                     |                     |                                   |
+| Week 10 | Machine learning workflow + project workshop                        |                     |                     |                                   |
+| Week 11 | Machine learning tools; pre-trained models; automation/augmentation |                     |                     |                                   |
+| Week 12 | Machine learning ecosystem; corporate infrastructure                |                     |                     |                                   |
+| Week 13 | Unsupervised learning #1                                            |                     |                     |                                   |
+| Week 14 | Unsupervised learning #2                                            |                     |                     |                                   |
+| Week 15 | Labor and machine learning                                          |                     |                     |                                   |
+| Week 16 | Presentations                                                       |                     |                     |                                   |
+
+
+### Textbooks, Readings and Materials:
+All reading materials and course slides (if applicable) will be provided as hyperlinks or downloadable files through LMS.
+
+Students will need a Google account for certain lab sessions. I believe the Pratt email address can serve this purpose, giving you access to Google Drive and Colab. In the latter part of the course, students will also need an account for Runway ML; details on how to sign up will be provided as needed.
+
+Additional resources including technical tutorials, example projects and datasets, resources about critical discourse, and more are listed on this webpage, and will be updated as necessary
+
+### Revisions to the Syllabus
+
+All changes will be communicated in class and the updated syllabus will be uploaded on LMS. This version is current as of August 26, 2019 September 11, 2019.
+
