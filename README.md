@@ -1,5 +1,5 @@
 # Machine Learning Course
-**INFO 697-03 - Fall 2020**
+**INFO 656-01 - Fall 2020**
 
 ### Course Description:
 
@@ -14,40 +14,31 @@ This syllabus is a living document; expect it to evolve over the course of the s
 ### Course Goals:
 
 The goals of this course are to:
-•	introduce students to key concepts and some common techniques in machine learning, as well as openly available tools 
-•	help students to develop technical and critical thinking skills regarding machine learning 
-•	enable students to conduct a machine learning experiment and communicate the result of their project
+
+* Introduce students to key concepts and some common techniques in machine learning, as well as openly available tools 
+* Help students to develop technical and critical thinking skills regarding machine learning 
+* Enable students to conduct a machine learning experiment and communicate the result of their project
 
 ### Student Learning Outcomes:
 
 By the end of the course, students will be able to:
-•	describe different machine learning methods, including their limitations
-•	select an appropriate machine learning method for a given use case
-•	implement machine learning algorithms and assess their performance
-•	execute a machine learning experiment using openly available tools
-•	support the design of their experiment by discussing both the technical aspect and the topic’s significance
+
+* Describe different machine learning methods, including their limitations
+* Select an appropriate machine learning method for a given use case
+* Implement machine learning algorithms and assess their performance
+* Execute a machine learning experiment using openly available tools
+* Support the design of their experiment by discussing both the technical aspect and the topic’s significance
 
 ### Course Schedule:
 
-| Week    | Title                                                               | Readings (required) | Readings (optional) | Lab                               |
-|---------|---------------------------------------------------------------------|---------------------|---------------------|-----------------------------------|
-| Week 1  | Introduction                                                        |                     |                     | Getting started with Python & Git |
-| Week 2  | Machine learning, data, programming                                 |    * Gideon Lewis-Kraus, [“The Great A.I. Awakening”][1_01] <br/> * Liza Daly, [“AI Literacy: The basics of machine learning”][1_02]
- <br/> * Meredith Broussard, Artificial Unintelligence, ch.2-3 (13-39) – via LMS <br/> * Siddhartha Mukherjee, [“AI Versus MD”][1_04]     |                     |                                   |
-| Week 3  | Classification                                                      |                     |                     |                                   |
-| Week 4  | Classification continued; regression; gradient descent              |                     |                     |                                   |
-| Week 5  | Model, software, abstraction; data prep and features; evaluation    |                     |                     |                                   |
-| Week 6  | Project planning                                                    |                     |                     |                                   |
-| Week 7  | NO CLASS - Midterm break                                            |                     |                     |                                   |
-| Week 8  | Neural networks                                                     |                     |                     |                                   |
-| Week 9  | Neural networks continued; bias                                     |                     |                     |                                   |
-| Week 10 | Machine learning workflow + project workshop                        |                     |                     |                                   |
-| Week 11 | Machine learning tools; pre-trained models; automation/augmentation |                     |                     |                                   |
-| Week 12 | Machine learning ecosystem; corporate infrastructure                |                     |                     |                                   |
-| Week 13 | Unsupervised learning #1                                            |                     |                     |                                   |
-| Week 14 | Unsupervised learning #2                                            |                     |                     |                                   |
-| Week 15 | Labor and machine learning                                          |                     |                     |                                   |
-| Week 16 | Presentations                                                       |                     |                     |                                   |
+#### Week 1: Introduction – What is Machine Learning?
+**Readings:**
+* Noah Lorang (2016) [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-thats-a-good-thing/)t.
+* David Donoho (2017) [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734), Journal of Computational and Graphical Statistics, 26:4, 745-766.
+* Meredith Broussard, Artificial Unintelligence, ch.2-3 (13-39)
+* Gideon Lewis-Kraus (2016) [“The Great A.I. Awakening”](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
+
+**Lab:** Getting started with Python, Git + Data Collection Activity
 
 
 ### Textbooks, Readings and Materials:
@@ -60,13 +51,3 @@ Additional resources including technical tutorials, example projects and dataset
 ### Revisions to the Syllabus
 
 All changes will be communicated in class and the updated syllabus will be uploaded on LMS. This version is current as of August 26, 2019 September 11, 2019.
-
-
-
-
-[1_01]: <http://web.archive.org/web/20161215073155/https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html>
-[1_02]: <https://worldwritable.com/ai-literacy-the-basics-of-machine-learning-2e20f93e34b4>
-[1_03]: <>
-[1_4]: <http://web.archive.org/web/20170427141526/http://www.newyorker.com/magazine/2017/04/03/ai-versus-md>
-
-
