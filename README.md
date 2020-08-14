@@ -34,7 +34,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 #### Week 1: Introduction – What is Machine Learning?
-#####Readings:
+##### Readings:
 * Noah Lorang (2016) [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-thats-a-good-thing/)t.
 * David Donoho (2017) [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734), Journal of Computational and Graphical Statistics, 26:4, 745-766.
 * Meredith Broussard, Artificial Unintelligence, ch.2-3 (13-39)
