@@ -13,6 +13,26 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 ### Course Schedule:
 
+|         | Session                                                                | Lab                                                                        | Assignment       | Guest                  |
+|---------|------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------|------------------------|
+| Week 1  | Introduction – What is Machine Learning?                               | Getting started with Python, Git                                           | -                | -                      |
+| Week 2  | Data, Bias, Communication                                              | Working with data in Python, Visualization                                 | #1 TBD           | Kaizer Fung            |
+| Week 3  | Intro to Supervised Learning - Linear Models                           | Supervised learning in Python with scikit-learn                            | -                | -                      |
+| Week 4  | Supervised Learning cont. - Trees, Forests, Ensembles                  | Supervised learning in Python with scikit-learn                            | #2 TBD           | -                      |
+| Week 5  | Unsupervised learning - Clustering, Dimensionality Reduction           | Unsupervised learning in Python with scikit-learn                          | -                | -                      |
+| Week 6  | Project planning                                                       | Project Workshop                                                           | Project Proposal | TBD                    |
+| Week 7  | NO CLASS - Midterm break                                               | -                                                                          | -                | -                      |
+| Week 8  | Model Pipelines: Evaluation, Tuning, Feature Processing                | End to End ML pipeline                                                     | #3 TBD           | -                      |
+| Week 9  | Neural Networks                                                        | Neural Network with PyTorch [TBD], Sequential models                       | -                | -                      |
+| Week 10 | Neural Networks - cont.                                                | Neural Network with PyTorch [TBD], Advanced models: Convolution, Recurrent | #4 TBD           | -                      |
+| Week 11 | ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs      | Cloud infrastructure (AWS) [TBD], Working with APIs                        | -                | TBD                    |
+| Week 12 | Human-Centric AI, Fairness                                             | TBD                                                                        | -                | TBD                    |
+| Week 13 | Labor and Machine Learning                                             | TBD                                                                        | -                | Elizabeth Anne Watkins |
+| Week 14 | Be a Good Engineer! Software Abstraction, Reproducibility, Open Source | TBD                                                                        | -                | TBD                    |
+| Week 15 | Industry and Career                                                    | TBD                                                                        | -                | TBD                    |
+| Week 16 | Presentations                                                          | -                                                                          | -                | TBD                    |
+
+
 #### Week 1: Introduction – What is Machine Learning?
 **Readings:**
 * Noah Lorang (2016) [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-thats-a-good-thing/)t.
