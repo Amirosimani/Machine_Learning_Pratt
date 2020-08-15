@@ -12,7 +12,7 @@ Readings, class discussions, and hands-on sessions will be complemented by guest
 This syllabus is a living document; expect it to evolve over the course of the semester. All changes will be communicated in class and the updated syllabus will be uploaded on LMS. Since this is a new course, your participation and input will be crucial in shaping it to your needs. Feel free to ask questions and give feedback or suggestions, in person or via email, as we move into the semester.
 
 
-## Course Schedule:
+## Course Schedule
 
 | Week | Session                                                                | Lab                                                                        | Assignment       |
 |------|------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------|
@@ -35,7 +35,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 
-## Textbooks, Readings and Materials:
+## Textbooks and Readings Materials
 Throughout the semester, we will survey diverse perspectives about machine learning as a socially situated technology. The assigned readings will be complemented by in-class discussions, typically at the beginning of the class.
 
 Throughout the semester, we will use the following books frequently:
@@ -232,6 +232,10 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Week 16: Presentations
 
+---
+## Revisions to the Syllabus
+
+All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020.
 
 -----
 ## Lab assignments
@@ -243,6 +247,8 @@ You need to submit your coding assignments through our dedicated GitHub Classroo
 
 I may also ask you to write down the amount of time you spent working on the assignment. This amount of time does NOT affect gradings in any way; I am asking in order to gauge whether I am giving you too much work or whether you are having trouble with some of the course material.
 
+---
+
 ## Project proposal
 I will ask you to choose a topic that you would like to explore in your final project, and to submit a proposal by mid-semester.
 
@@ -253,6 +259,8 @@ On week 6, we will have an in-class activity where you will share your idea(s) a
 •   A discussion of the significance of your topic
 
 We will discuss the proposal in further detail in the coming weeks.
+
+---
 
 ## Final project + presentation
 Your final project is to run an experiment that applies a machine learning technique (such as classification, regression, clustering, etc.) that we learned on a dataset of your choice. You can design the project as a complete piece on its own, or as a component of a larger project. 
@@ -284,14 +292,76 @@ By the end of the course, students will be able to:
 * Support the design of their experiment by discussing both the technical aspect and the topic’s significance
 
 ---
-## Textbooks, Readings and Materials
-All reading materials and course slides (if applicable) will be provided as hyperlinks or downloadable files through LMS.
+## Assessment and Grading
 
-Students will need a Google account for certain lab sessions. I believe the Pratt email address can serve this purpose, giving you access to Google Drive and Colab. In the latter part of the course, students will also need an account for Runway ML; details on how to sign up will be provided as needed.
+```
+Lab assignments 20%
+Participation (discussions and peer feedback) 30%
+Project proposal 10%
+Final project 30%
+Presentation 10%
+```
 
-Additional resources including technical tutorials, example projects and datasets, resources about critical discourse, and more are listed on this webpage, and will be updated as necessary
+Pratt’s grading scale:  
+
+| A  | Superior work           | 4.0 | 96-100 |
+|----|-------------------------|-----|--------|
+| A- | Superior work           | 3.7 | 90-95  |
+| B+ | Very good work          | 3.3 | 87-89  |
+| B  | Very good work          | 3.0 | 83-86  |
+| B- | Very good work          | 2.7 | 80-82  |
+| C+ | Marginally satisfactory | 2.3 | 77-79  |
+| C  | Marginally satisfactory | 2.0 | 73-76  |
+| F  | Failed:                 | 0.0 | 0-72   |
 
 ---
-## Revisions to the Syllabus
+## Portfolio
 
-All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020.
+Work completed for this course may be included in your portfolio. For more information on each program’s portfolio requirements, please visit the program’s respective webpage:
+
+* MS Library & Information Science: Portfolio - http://bit.ly/prattmslisportfolio
+* MS Information Experience Design: Portfolio - http://bit.ly/prattmsixdportfolio
+* MS Data Analytics and Visualization: Portfolio - http://bit.ly/prattmsdavportfolio 
+* MS Museums and Digital Culture: Portfolio - http://bit.ly/prattmsmdcportfolio 
+You are encouraged to meet with your advisor about including projects in your portfolio. 
+
+---
+## Policies
+
+This Course’s Attendance Policy
+
+Students are allowed two individual absences for any reason; no notice or documentation is required. If you miss a session, be sure that you complete the readings, consult your classmates or the professor about the class, and (as always) demonstrate your knowledge of previous topics in later sessions. Upon a third or fourth absence, your grade will be lowered by one mark for each absence. Five absences will result in failure of the course (F). Also, please note that a grade of C- is considered failing at the graduate level.
+
+Students who encounter long-term health issues should provide documentation to the Office of Health and Counseling and discuss their options with the professor.
+
+| Absences | Penalty                 | Example                                                                         |
+|----------|-------------------------|---------------------------------------------------------------------------------|
+| 0-2      | None                    | NA                                                                              |
+| 3-4      | One mark per absence    | A → A- (3rd absence) → B+ (4th absence) A- → B+ (3rd absence) → B (4th absence) |
+| 5+       | Failure of the course   | NA                                                                              |
+
+
+For more information on Pratt Institute’s Attendance Policy, please visit http://bit.ly/prattattendance.  
+
+Academic Integrity Code
+
+Academic integrity at Pratt means using your own and original ideas in creating academic work. It also means that if you use the ideas or influence of others in your work, you must acknowledge them. For more information on Pratt’s Academic Integrity Standards, please visit http://bit.ly/prattacademicintegrity. 
+
+Students with Disabilities and Accessibility
+
+Pratt Institute is committed to the full inclusion of all students. If you are a student with a disability and require accommodations, please contact the Learning/Access Center (L/AC) at LAC@pratt.edu to schedule an appointment to discuss these accommodations. Students with disabilities who have already registered with the L/AC are encouraged to speak to the professor about accommodations they may need to produce an accessible learning environment. 
+
+Requests for accommodation should be made as far in advance as reasonably possible to allow sufficient time to make any necessary modifications to ensure the relevant classes, programs, or activities are readily accessible. The Learning/Access Center is available to Pratt students, confidentially, with additional resources and information to facilitate full access to all campus programs and activities and provide support related to any other disability-related matters.
+
+For more information, please visit http://www.pratt.edu/accessibility/.
+
+Human Rights, Equity, BERT, and Title IX
+
+Pratt Institute seeks to provide an environment that is free of bias, discrimination, and harassment.  If you have been the victim of harassment, discrimination, bias, or sexual misconduct, we encourage you to report this.  
+
+If you inform me (your professor) of an issue of harassment, discrimination or bias, or sexual misconduct I will keep the information as private as I can, but I am required to bring it to the attention of the institution’s Title IX Coordinator. You can access Title IX services by emailing titleix@pratt.edu. You can also speak to someone confidentially by contacting our non-mandatory reporters: Health Services at 718-399-4542, Counseling Services 718-687-5356 or Campus Ministries 718-596-4840. 
+
+In cases of Bias, this information may go to our Bias Education & Response Taskforce (BERT). You can contact BERT by either reaching out directly via bert@pratt.edu or by contacting the BERT Co-Chair and Title IX Coordinator, Dr. Esmilda Abreu. 
+ 
+For more information, please refer to the Community Standards webpage: http://bit.ly/prattcommunitystandards. 
+
