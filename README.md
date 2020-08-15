@@ -1,6 +1,15 @@
 <img src="./img/Pratt_logo.png"
-     alt="Markdown Monster icon"
+     alt="Pratt logo"
      style="float: left; margin-right: 10px;" />
+
+Amir Imani, Visiting Assistant Professor
+Pratt Institute School of Information
+144 W. 14th St., 6th Floor
+New York, NY 10011-7301
+Email: aimani@pratt.edu
+URL: https://amirosimani.github.io
+
+
 
 # Machine Learning Course
 **INFO 656-01 - Fall 2020**
