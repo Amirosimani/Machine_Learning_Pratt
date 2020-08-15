@@ -187,6 +187,26 @@ This syllabus is a living document; expect it to evolve over the course of the s
 * Astra Taylor, [“The Automation Charade”](https://logicmag.io/failure/the-automation-charade/)
 
 
+* Nick Seaver, [“Knowing Algorithms”](https://digitalsts.net/essays/knowing-algorithms/)
+* Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+* Causey, Tray. [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
+* [Why Is Open-Source So Important? Part One: Principles And Parity](https://www.forbes.com/sites/charlestowersclark/2019/09/24/why-is-open-source-so-important-part-one-principles-and-parity/#5882840961f7)
+* [Production ML systems](https://developers.google.com/machine-learning/crash-course/production-ml-systems)
+
+**Supplemental Material:**
+* Justin Kitzes, Daniel Turek, Fatma Deniz (2018). [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org)
+* [Docker for Data Science](https://www.kdnuggets.com/2018/01/docker-data-science.html)
+
+### Week 15: Industry and Career
+
+* Shana Lynch, “[Andrew Ng: Why AI Is the New Electricity”](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity)
+* [Market your data science like a product](https://medium.com/indeed-engineering/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55)
+* Caitlin Hudon (2018). [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/)
+* [Doing data science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)
+* Podcast: [Getting Your First Data Science Job](https://www.datacamp.com/community/podcast/getting-your-first-data-science-job) (with Chris Albon). 
+
+
+### Week 16: Presentations
 ---
 ## Course Goal
 
