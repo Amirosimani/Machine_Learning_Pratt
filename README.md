@@ -1,3 +1,7 @@
+<img src="./img/Pratt_logo.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 # Machine Learning Course
 **INFO 656-01 - Fall 2020**
 
