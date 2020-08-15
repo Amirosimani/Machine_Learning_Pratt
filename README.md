@@ -35,7 +35,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 ### Week 1: Introduction – What is Machine Learning?
-**Readings:**
+
 * Noah Lorang (2016) [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-thats-a-good-thing/)t.
 * David Donoho (2017) [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734), Journal of Computational and Graphical Statistics, 26:4, 745-766.
 * Meredith Broussard, Artificial Unintelligence, ch.2-3 (13-39)
@@ -43,7 +43,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 ### Week 2: Data, Bias, Communication
-**Readings:**
+
 * Paul Ford (2015) [“What is Code?”](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * Lisa Gitelman (ed.) (2013) [“Raw Data” Is an Oxymoron".](hhttp://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf) introduction (1-14)
 * Andrey Kurenkov (2020) [Lessons from the pulse model](https://thegradient.pub/pulse-lessons/)
@@ -55,13 +55,13 @@ This syllabus is a living document; expect it to evolve over the course of the s
 **Supplemental Material:**
 * Konold, C., Finzer, W., & Kreetong, K. (2017). [Modeling as a Core Component of Structuring Data. Statistics Education Research Journal](https://iase-web.org/documents/SERJ/SERJ16(2)_Konold.pdf), 16(2). 
 * [Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
-* Prabhu, V. U., & Birhane, A. (2020). [Large image datasets: A pyrrhic win for computer vision?](https://arxiv.org/pdf/2006.16923)
+* Prabhu, V. U., & Birhane, A. (2020). [ image datasets: A pyrrhic win for computer vision?](https://arxiv.org/pdf/2006.16923)
 * Galloway, A. (2015). [“The Computational Decision”](http://cultureandcommunication.org/galloway/the-computational-decision)
 * Wong, D. M. (2010). The Wall Street Journal guide to information graphics: The dos and don'ts of presenting data, facts, and figures. WW Norton.
 
 
 ### Week 3: Intro to Supervised Learning - Linear Models
-**Readings:**
+
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 2.1 (15-28)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.1, 2.2 (27-84)
 * Stephanie Yee and Tony Chu, [“A visual introduction to machine learning”](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ )
@@ -75,7 +75,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 ### Week 4: Supervised Learning  cont. - Trees, Forests, Ensembles
-**Readings:**
+
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 8 (303-332)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.3 (31-121)
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 5.1 (96-105)
@@ -87,7 +87,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 ### Week 5: Unsupervised learning - Clustering, Dimensionality Reduction
-**Readings:**
+
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 10 (373-412)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 3 (133-210)
 * Kearns, M., & Roth, A. (2019). The ethical algorithm: The science of socially aware algorithm design. Oxford University Press., chapter 1
@@ -98,7 +98,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 * Ji, Z., Lipton, Z. C., & Elkan, C. (2014). [Differential privacy and machine learning: a survey and review](https://arxiv.org/pdf/1812.02282.pdf). arXiv preprint arXiv:1412.7584. 
 
 ### Week 6: Project planning 
-**Readings:**
+
 * Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 * Lovejoy, J. & Holbrook, J. (2017). [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
 •   Kearns, M., & Roth, A. (2019). The ethical algorithm: The science of socially aware algorithm design. Oxford University Press., chapter 2
@@ -111,14 +111,14 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 ### Week 8: Model Pipelines: Evaluation, Tuning, Feature Processing
-**Readings:**
+
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 2.2 (28-42)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 5 (253-304)
 * O'neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. ch.1 (1-31) & ch. 8 (141-160)
 
 
 ### Week 9: Neural networks
-**Readings:**
+
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.3.8 (106-121)
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 6, 7.8
 * The Coding Train, “[10: Neural Networks - The Nature of Code”](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) (YouTube playlist)
@@ -129,7 +129,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 * Cathy O'Neil. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Broadway Books. Conclusion (199-218)
 
 ### Week 10: Neural Networks - cont.
-**Readings:**
+
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter Chapter 9, 10, 11
 * Chris Deotte, [“Neural Network Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/neuralnetwork.html)
 * Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
@@ -139,7 +139,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 * [Machine Learning with Differential Privacy in TF](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
 
 ### Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs
-**Readings:**
+
 * Shan Carter and Michael Nielsen, “[Using Artificial Intelligence to Augment Human Intelligence”](https://distill.pub/2017/aia/)
 * [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * Andrew Ng. [Transfer Learning](https://www.youtube.com/watch?v=yofjFQddwHE)
@@ -150,7 +150,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 * Podcast: [Jitendra Malik: Computer Vision](https://lexfridman.com/jitendra-malik/)
 
 ### Week 12: Human-Centric AI, Fairness
-**Readings:**
+
 * Alex Galloway, [“Are Algorithms Biased?”](http://cultureandcommunication.org/galloway/are-algorithms-biased)
 * West, S.M., Whittaker, M. and Crawford, K. (2019). [Discriminating Systems: Gender, Race and Power in AI. AI Now Institute](https://ainowinstitute.org/discriminatingsystems.pdf)
 * Blaise Agüera y Arcas, Margaret Mitchell and Alexander Todorov, [“Physiognomy’s New Clothes”](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
@@ -169,7 +169,6 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 
 ### Week 13: Labor and Machine Learning
-**Readings:**
 
 * Siddhartha Mukherjee, [“AI Versus MD”](http://web.archive.org/web/20170427141526/http://www.newyorker.com/magazine/2017/04/03/ai-versus-md) 
 * [where will predictive text take us?](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker)
