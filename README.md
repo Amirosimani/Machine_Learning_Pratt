@@ -1,6 +1,40 @@
 # Machine Learning Course
 **INFO 656-01 - Fall 2020**
 
+- [Machine Learning Course](#machine-learning-course)
+  * [Course Description](#course-description)
+  * [Course Schedule](#course-schedule)
+  * [Textbooks and Readings Materials](#textbooks-and-readings-materials)
+  * [Readings and Discussions](#readings-and-discussions)
+    + [Week 1: Introduction – What is Machine Learning?](#week-1--introduction---what-is-machine-learning-)
+    + [Week 2: Data, Bias, Communication](#week-2--data--bias--communication)
+    + [Week 3: Intro to Supervised Learning - Linear Models](#week-3--intro-to-supervised-learning---linear-models)
+    + [Week 4: Supervised Learning  cont. - Trees, Forests, Ensembles](#week-4--supervised-learning--cont---trees--forests--ensembles)
+    + [Week 5: Unsupervised learning - Clustering, Dimensionality Reduction](#week-5--unsupervised-learning---clustering--dimensionality-reduction)
+    + [Week 6: Project planning](#week-6--project-planning)
+    + [Week7: NO CLASS - Midterm break](#week7--no-class---midterm-break)
+    + [Week 8: Model Pipelines: Evaluation, Tuning, Feature Processing](#week-8--model-pipelines--evaluation--tuning--feature-processing)
+    + [Week 9: Neural networks](#week-9--neural-networks)
+    + [Week 10: Neural Networks - cont.](#week-10--neural-networks---cont)
+    + [Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs](#week-11--ml-ecosystem---cloud--mlops--production--pre-trained-models--apis)
+    + [Week 12: Human-Centric AI, Fairness](#week-12--human-centric-ai--fairness)
+    + [Week 13: Labor and Machine Learning](#week-13--labor-and-machine-learning)
+    + [Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, Open Source](#week-14--be-a-good-engineer--software-abstraction--reproducibility--open-source)
+    + [Week 15: Industry and Career](#week-15--industry-and-career)
+    + [Week 16: Presentations](#week-16--presentations)
+    + [Revisions to the Syllabus](#revisions-to-the-syllabus)
+  * [Lab assignments](#lab-assignments)
+  * [Project proposal](#project-proposal)
+  * [Final project + presentation](#final-project---presentation)
+  * [Course Goal](#course-goal)
+  * [Student Learning Outcomes](#student-learning-outcomes)
+  * [Assessment and Grading](#assessment-and-grading)
+  * [Portfolio](#portfolio)
+  * [Policies](#policies)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Course Description
 
 Machine learning is a rapidly growing field that develops algorithms for tasks such as data classification and prediction. These algorithms are programmed to operate and adjust themselves independently of human intervention (i.e., to learn), allowing data work to occur quickly and at scale. Machine learning is a key technology behind the automation across many social areas today, often branded AI.
@@ -234,7 +268,7 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Revisions to the Syllabus
 
-All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020. `/today` 
+All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020.
 
 -----
 ## Lab assignments
