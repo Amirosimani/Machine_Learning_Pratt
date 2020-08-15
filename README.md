@@ -337,7 +337,7 @@ Students who encounter long-term health issues should provide documentation to t
 | Absences | Penalty                 | Example                                                                         |
 |----------|-------------------------|---------------------------------------------------------------------------------|
 | 0-2      | None                    | NA                                                                              |
-| 3-4      | One mark per absence    | A → A- (3rd absence) → B+ (4th absence) A- → B+ (3rd absence) → B (4th absence) |
+| 3-4      | One mark per absence    | A → A- (3rd absence) → B+ (4th absence)<br> A- → B+ (3rd absence) → B (4th absence) <br>|
 | 5+       | Failure of the course   | NA                                                                              |
 
 
