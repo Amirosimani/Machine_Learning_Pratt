@@ -14,24 +14,46 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 ## Course Schedule:
 
-|  Week   | Session                                                                | Lab                                                                        | Assignment       | Guest                  |
-|---------|------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------|------------------------|
-| 1  | Introduction – What is Machine Learning?                               | Getting started with Python, Git                                           | -                | -                      |
-| 2  | Data, Bias, Communication                                              | Working with data in Python, Visualization                                 | #1 TBD           | Kaizer Fung            |
-| 3  | Intro to Supervised Learning - Linear Models                           | Supervised learning in Python with scikit-learn                            | -                | -                      |
-| 4  | Supervised Learning cont. - Trees, Forests, Ensembles                  | Supervised learning in Python with scikit-learn                            | #2 TBD           | -                      |
-| 5  | Unsupervised learning - Clustering, Dimensionality Reduction           | Unsupervised learning in Python with scikit-learn                          | -                | -                      |
-| 6  | Project planning                                                       | Project Workshop                                                           | Project Proposal | TBD                    |
-| 7  | NO CLASS - Midterm break                                               | -                                                                          | -                | -                      |
-| 8  | Model Pipelines: Evaluation, Tuning, Feature Processing                | End to End ML pipeline                                                     | #3 TBD           | -                      |
-| 9  | Neural Networks                                                        | Neural Network with PyTorch [TBD], Sequential models                       | -                | -                      |
-| 10 | Neural Networks - cont.                                                | Neural Network with PyTorch [TBD], Advanced models: Convolution, Recurrent | #4 TBD           | -                      |
-| 11 | ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs      | Cloud infrastructure (AWS) [TBD], Working with APIs                        | -                | TBD                    |
-| 12 | Human-Centric AI, Fairness                                             | TBD                                                                        | -                | TBD                    |
-| 13 | Labor and Machine Learning                                             | TBD                                                                        | -                | Elizabeth Anne Watkins |
-| 14 | Be a Good Engineer! Software Abstraction, Reproducibility, Open Source | TBD                                                                        | -                | TBD                    |
-| 15 | Industry and Career                                                    | TBD                                                                        | -                | David Ping                   |
-| 16 | Presentations                                                          | -                                                                          | -                | TBD                    |
+| Week | Session                                                                | Lab                                                                        | Assignment       |
+|------|------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------|
+| 1    | Introduction – What is Machine Learning?                               | Getting started with Python, Git                                           | -                |
+| 2    | Data, Bias, Communication                                              | Working with data in Python, Visualization                                 | #1 TBD           |
+| 3    | Intro to Supervised Learning - Linear Models                           | Supervised learning in Python with scikit-learn                            | -                |
+| 4    | Supervised Learning cont. - Trees, Forests, Ensembles                  | Supervised learning in Python with scikit-learn                            | #2 TBD           |
+| 5    | Unsupervised learning - Clustering, Dimensionality Reduction           | Unsupervised learning in Python with scikit-learn                          | -                |
+| 6    | Project planning                                                       | Project Workshop                                                           | Project Proposal |
+| 7    | NO CLASS - Midterm break                                               | -                                                                          | -                |
+| 8    | Model Pipelines: Evaluation, Tuning, Feature Processing                | End to End ML pipeline                                                     | #3 TBD           |
+| 9    | Neural Networks                                                        | Neural Network with PyTorch [TBD], Sequential models                       | -                |
+| 10   | Neural Networks - cont.                                                | Neural Network with PyTorch [TBD], Advanced models: Convolution, Recurrent | #4 TBD           |
+| 11   | ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs      | Cloud infrastructure (AWS) [TBD], Working with APIs                        | -                |
+| 12   | Human-Centric AI, Fairness                                             | TBD                                                                        | -                |
+| 13   | Labor and Machine Learning                                             | TBD                                                                        | -                |
+| 14   | Be a Good Engineer! Software Abstraction, Reproducibility, Open Source | TBD                                                                        | -                |
+| 15   | Industry and Career                                                    | TBD                                                                        | -                |
+| 16   | Presentations                                                          | -                                                                          | -                |
+
+
+
+## Textbooks, Readings and Materials:
+Throughout the semester, we will survey diverse perspectives about machine learning as a socially situated technology. The assigned readings will be complemented by in-class discussions, typically at the beginning of the class.
+
+Throughout the semester, we will use the following books frequently:
+
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 8 (303-332)
+* Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.".
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
+
+All reading materials and course slides (if applicable) will be provided as hyperlinks or downloadable files through Canvas.
+
+Students will need a Google/AWS account for certain lab sessions. I believe the Pratt email address can serve this purpose, giving you access to Google Drive and Colab. Details on how to sign up will be provided as needed.
+
+Additional resources including technical tutorials, example projects and datasets, resources about critical discourse, and more are listed on this GitHub repo, and will be updated as necessary: https://github.com/Amirosimani/Machine_Learning_Pratt
+
+## Readings and Discussions
+A provocation will include a summary of key points in the readings, as well as questions / observations you would like to raise or make. The provocations will serve as starting points of the in-class discussion and some of them will scaffold towards the project proposal and final project.
+
+Students who are not motivators for the week are expected to complete the readings before class, and contribute to the discussion in class and/or online by replying to the forum thread.
 
 
 ### Week 1: Introduction – What is Machine Learning?
@@ -208,6 +230,36 @@ This syllabus is a living document; expect it to evolve over the course of the s
 
 ### Week 16: Presentations
 ---
+## Lab assignments
+The latter part of each class will be a lab session related to the topic of the week. Sometimes, the lab session will be accompanied by a lecture-style session before it; in other cases, we will move into the lab session right after discussions.
+
+At the end of some lab sessions, I will give you take-home assignments (4 total). The assignments will scaffold towards the final project. For example, you will be asked to explain some machine learning terminology or write code that does a specific task. 
+
+You need to submit your coding assignments through our dedicated GitHub Classroom. Details on how to submit the homework will be communicated in class. The homework assignments are due by the end of the day Monday before the next class.
+
+I may also ask you to write down the amount of time you spent working on the assignment. This amount of time does NOT affect gradings in any way; I am asking in order to gauge whether I am giving you too much work or whether you are having trouble with some of the course material.
+
+## Project proposal
+I will ask you to choose a topic that you would like to explore in your final project, and to submit a proposal by mid-semester.
+
+On week 6, we will have an in-class activity where you will share your idea(s) and give peer feedback. Your 800- to 1200-word proposal is due by the end of the following, and should include:
+•   A description of the data you intend to use
+•   A description of the machine learning task you intend to perform
+•   A tentative and brief survey of existing work on the topic
+•   A discussion of the significance of your topic
+
+We will discuss the proposal in further detail in the coming weeks.
+
+## Final project + presentation
+Your final project is to run an experiment that applies a machine learning technique (such as classification, regression, clustering, etc) that we learned on a dataset of your choice. You can design the project as a complete piece on its own, or as a component of a larger project. 
+
+Projects are due before the final class in the form of a write-up detailing your work process; you also need to submit the resulting model /  dataset and code used. We will dedicate our final class to presentations.
+
+A detailed rubric for the project and presentation will be distributed separately.
+
+---
+
+
 ## Course Goal
 
 The goals of this course are to:
