@@ -218,7 +218,7 @@ Students who are not motivators for the week are expected to complete the readin
 
 **Supplemental Material:**
 * Justin Kitzes, Daniel Turek, Fatma Deniz (2018). [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org)
-* Cooper, Z. (2020) [Getting started with contributing to open source](Be a Good Engineer! Software Abstraction, Reproducibility, Open Source)
+* Cooper, Z. (2020) [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
 * [Docker for Data Science](https://www.kdnuggets.com/2018/01/docker-data-science.html)
 
 ### Week 15: Industry and Career
