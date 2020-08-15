@@ -232,10 +232,9 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Week 16: Presentations
 
----
-## Revisions to the Syllabus
+### Revisions to the Syllabus
 
-All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020.
+All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020. `/today` 
 
 -----
 ## Lab assignments
