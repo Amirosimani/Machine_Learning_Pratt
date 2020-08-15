@@ -7,7 +7,7 @@ Machine learning is a rapidly growing field that develops algorithms for tasks s
 
 This course offers an introduction to machine learning as a practical tool that we can use, and as a technological field with social implications. We will learn about key concepts in machine learning; survey a few key machine learning techniques, such as supervised methods for machine learning (regression and classification), which attempt to map data onto desired outputs, and unsupervised methods (clustering and association), which attempt to find structure within data itself; use openly available tools to implement these techniques on text and image data; learn how to assess the effectiveness of different techniques on particular datasets; and discuss basic issues that confront all machine learning methods. 
 
-Readings, class discussions, and hands-on sessions will be complemented by guest lectures (TBD) from machine learning practitioners. Students will be assessed via a final project developed throughout the course, in addition to the project proposal, presentation, class participation, and lab assignments.
+Readings, class discussions, and hands-on sessions will be complemented by guest lecturers (TBD) from machine learning practitioners. Students will be assessed via a final project developed throughout the course, in addition to the project proposal, presentation, class participation, and lab assignments.
 
 This syllabus is a living document; expect it to evolve over the course of the semester. All changes will be communicated in class and the updated syllabus will be uploaded on LMS. Since this is a new course, your participation and input will be crucial in shaping it to your needs. Feel free to ask questions and give feedback or suggestions, in person or via email, as we move into the semester.
 
@@ -153,7 +153,7 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Week 10: Neural Networks - cont.
 
-* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter Chapter 9, 10, 11
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 9, 10, 11
 * Chris Deotte, [“Neural Network Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/neuralnetwork.html)
 * Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
 * Andrew Ng. [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
@@ -231,7 +231,9 @@ Students who are not motivators for the week are expected to complete the readin
 
 
 ### Week 16: Presentations
----
+
+
+-----
 ## Lab assignments
 The latter part of each class will be a lab session related to the topic of the week. Sometimes, the lab session will be accompanied by a lecture-style session before it; in other cases, we will move into the lab session right after discussions.
 
@@ -253,7 +255,7 @@ On week 6, we will have an in-class activity where you will share your idea(s) a
 We will discuss the proposal in further detail in the coming weeks.
 
 ## Final project + presentation
-Your final project is to run an experiment that applies a machine learning technique (such as classification, regression, clustering, etc) that we learned on a dataset of your choice. You can design the project as a complete piece on its own, or as a component of a larger project. 
+Your final project is to run an experiment that applies a machine learning technique (such as classification, regression, clustering, etc.) that we learned on a dataset of your choice. You can design the project as a complete piece on its own, or as a component of a larger project. 
 
 Projects are due before the final class in the form of a write-up detailing your work process; you also need to submit the resulting model /  dataset and code used. We will dedicate our final class to presentations.
 
