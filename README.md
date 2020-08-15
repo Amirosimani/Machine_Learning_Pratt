@@ -30,7 +30,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | 12 | Human-Centric AI, Fairness                                             | TBD                                                                        | -                | TBD                    |
 | 13 | Labor and Machine Learning                                             | TBD                                                                        | -                | Elizabeth Anne Watkins |
 | 14 | Be a Good Engineer! Software Abstraction, Reproducibility, Open Source | TBD                                                                        | -                | TBD                    |
-| 15 | Industry and Career                                                    | TBD                                                                        | -                | TBD                    |
+| 15 | Industry and Career                                                    | TBD                                                                        | -                | David Ping                   |
 | 16 | Presentations                                                          | -                                                                          | -                | TBD                    |
 
 
@@ -73,6 +73,119 @@ This syllabus is a living document; expect it to evolve over the course of the s
 **Supplemental Material:**
 * Khan Academy, “[Least-squares regression equations”](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/introduction-to-residuals-and-least-squares-regression) (MOOC module, playlist) 
 
+
+### Week 4: Supervised Learning  cont. - Trees, Forests, Ensembles
+**Readings:**
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 8 (303-332)
+* Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.3 (31-121)
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 5.1 (96-105)
+* Chris Deotte, [“Classifier Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
+
+
+**Supplemental Material:**
+* Elish, M.C. & Hwang T., [An AI Pattern Language](https://datasociety.net/pubs/ia/AI_Pattern_Language.pdf). Chapter 2 (16-33)
+
+
+### Week 5: Unsupervised learning - Clustering, Dimensionality Reduction
+**Readings:**
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 10 (373-412)
+* Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 3 (133-210)
+* Kearns, M., & Roth, A. (2019). The ethical algorithm: The science of socially aware algorithm design. Oxford University Press., chapter 1
+
+
+**Supplemental Material:**
+* Nicolas Papernot, N., & Goodfellow, I. (2018) [Privacy and ML, two unexpected allies](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
+* Ji, Z., Lipton, Z. C., & Elkan, C. (2014). [Differential privacy and machine learning: a survey and review](https://arxiv.org/pdf/1812.02282.pdf). arXiv preprint arXiv:1412.7584. 
+
+### Week 6: Project planning 
+**Readings:**
+* Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
+* Lovejoy, J. & Holbrook, J. (2017). [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
+•   Kearns, M., & Roth, A. (2019). The ethical algorithm: The science of socially aware algorithm design. Oxford University Press., chapter 2
+
+**Supplemental Material:**
+* Example projects and resources: https://www.are.na/achim-koh/ml-design-ish (The linked list is a preliminary one and will be updated; also, the examples are meant primarily as inspirations, and do not indicate what the final project should look like)
+
+
+### Week7: NO CLASS - Midterm break
+
+
+### Week 8: Model Pipelines: Evaluation, Tuning, Feature Processing
+**Readings:**
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 2.2 (28-42)
+* Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 5 (253-304)
+* O'neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. ch.1 (1-31) & ch. 8 (141-160)
+
+
+### Week 9: Neural networks
+**Readings:**
+* Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.3.8 (106-121)
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 6, 7.8
+* The Coding Train, “[10: Neural Networks - The Nature of Code”](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) (YouTube playlist)
+* 3Blue1Brown, “[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)” (YouTube playlist) 
+* Daniel Smilkov and Shan Carter, [“A Neural Network Playground”](https://playground.tensorflow.org/)
+
+**Supplemental Material:**
+* Cathy O'Neil. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Broadway Books. Conclusion (199-218)
+
+### Week 10: Neural Networks - cont.
+**Readings:**
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter Chapter 9, 10, 11
+* Chris Deotte, [“Neural Network Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/neuralnetwork.html)
+* Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
+* Andrew Ng. [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
+
+**Supplemental Material:**
+* [Machine Learning with Differential Privacy in TF](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
+
+### Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs
+**Readings:**
+* Shan Carter and Michael Nielsen, “[Using Artificial Intelligence to Augment Human Intelligence”](https://distill.pub/2017/aia/)
+* [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+* Andrew Ng. [Transfer Learning](https://www.youtube.com/watch?v=yofjFQddwHE)
+* Podcast: [Data Science in the Cloud](https://www.datacamp.com/community/podcast/data-science-in-the-cloud) (with Paige Bailey). 
+
+
+**Supplemental Material:**
+* Podcast: [Jitendra Malik: Computer Vision](https://lexfridman.com/jitendra-malik/)
+
+### Week 12: Human-Centric AI, Fairness
+**Readings:**
+* Alex Galloway, [“Are Algorithms Biased?”](http://cultureandcommunication.org/galloway/are-algorithms-biased)
+* West, S.M., Whittaker, M. and Crawford, K. (2019). [Discriminating Systems: Gender, Race and Power in AI. AI Now Institute](https://ainowinstitute.org/discriminatingsystems.pdf)
+* Blaise Agüera y Arcas, Margaret Mitchell and Alexander Todorov, [“Physiognomy’s New Clothes”](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
+* Shannon Mattern, [“The Ethics of Automating Design”](https://wordsinspace.net/shannon/2019/02/13/the-ethics-of-automating-design/)
+* Roelof Pieters and Samim Winiger, [“Creative AI: On the Democratization & Escalation of Creativity”](https://medium.com/@creativeai/creativeai-9d4b2346faf3)
+* [coding is for everyone - as long as you speak english](https://www.wired.com/story/coding-is-for-everyoneas-long-as-you-speak-english/)
+* [is your algorithm racist?](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631/)
+
+
+
+**Supplemental Material:**
+* Julia Angwin et al., [“Machine Bias”](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+* Diana ben-Aaron, [“Weizenbaum examines computers and society”](http://tech.mit.edu/V105/N16/weisen.16n.html)
+* Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
+* Podcast: [Peter Wang (part 1/2): CEO/founder Anaconda, Creator of PyData]h(ttps://podcasts.apple.com/us/podcast/peter-wang-part-1-2-ceo-founder-anaconda-creator-of-pydata/id1478016790?i=1000459268650)
+
+
+### Week 13: Labor and Machine Learning
+**Readings:**
+
+* Siddhartha Mukherjee, [“AI Versus MD”](http://web.archive.org/web/20170427141526/http://www.newyorker.com/magazine/2017/04/03/ai-versus-md) 
+* [where will predictive text take us?](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker)
+* [How three French students used borrowed code to put the first AI portrait in Christie’s](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)
+* Kate Crawford and Vladan Joler, [Anatomy of an AI System](https://anatomyof.ai/)
+* Cade Metz, [“A.I. Is Learning From Humans. Many Humans.”](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
+* [Why Are Good Jobs Disappearing if Robots Aren’t Taking Them?](https://points.datasociety.net/why-are-good-jobs-disappearing-if-robots-arent-taking-them-9f8d4845302a) Part I and II
+* [Algorithmic Management in the workplace](https://datasociety.net/wp-content/uploads/2019/02/DS_Algorithmic_Management_Explainer.pdf)
+
+
+
+**Supplemental Material:**
+* Shannon Mattern, [“Maintenance and Care”](https://placesjournal.org/article/maintenance-and-care/)
+* Rosenblat, A. (2018). Uberland: How algorithms are rewriting the rules of work. Univ of California Press.
+* [Sepsis Watch in Practice.](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe)
+* Astra Taylor, [“The Automation Charade”](https://logicmag.io/failure/the-automation-charade/)
 
 
 ---
