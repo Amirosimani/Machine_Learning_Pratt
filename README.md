@@ -209,7 +209,7 @@ Students who are not motivators for the week are expected to complete the readin
 * [Sepsis Watch in Practice.](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe)
 * Astra Taylor, [“The Automation Charade”](https://logicmag.io/failure/the-automation-charade/)
 
-
+### Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, Open Source
 * Nick Seaver, [“Knowing Algorithms”](https://digitalsts.net/essays/knowing-algorithms/)
 * Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 * Causey, Tray. [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
@@ -218,6 +218,7 @@ Students who are not motivators for the week are expected to complete the readin
 
 **Supplemental Material:**
 * Justin Kitzes, Daniel Turek, Fatma Deniz (2018). [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org)
+* Cooper, Z. (2020) [Getting started with contributing to open source](Be a Good Engineer! Software Abstraction, Reproducibility, Open Source)
 * [Docker for Data Science](https://www.kdnuggets.com/2018/01/docker-data-science.html)
 
 ### Week 15: Industry and Career
@@ -291,4 +292,4 @@ Additional resources including technical tutorials, example projects and dataset
 ---
 ## Revisions to the Syllabus
 
-All changes will be communicated in class and the updated syllabus will be uploaded on LMS. This version is current as of August 26, 2019 September 11, 2019.
+All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020.
