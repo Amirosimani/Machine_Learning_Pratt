@@ -40,9 +40,12 @@ Throughout the semester, we will survey diverse perspectives about machine learn
 
 Throughout the semester, we will use the following books frequently:
 
+```
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 8 (303-332)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.".
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
+```
+
 
 All reading materials and course slides (if applicable) will be provided as hyperlinks or downloadable files through Canvas.
 
