@@ -242,6 +242,7 @@ Students who are not motivators for the week are expected to complete the readin
 * Rosenblat, A. (2018). Uberland: How algorithms are rewriting the rules of work. Univ of California Press.
 * [Sepsis Watch in Practice.](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe)
 * Astra Taylor, [“The Automation Charade”](https://logicmag.io/failure/the-automation-charade/)
+* [Ensmenger N., Aspray W. (2002) Software as Labor Process. In: Hashagen U., Keil-Slawik R., Norberg A.L. (eds) History of Computing: Software Issues. Springer, Berlin, Heidelberg](https://www.sas.upenn.edu/~nathanen/files/ensmenger2002.pdf).
 
 ### Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, Open Source
 * Nick Seaver, [“Knowing Algorithms”](https://digitalsts.net/essays/knowing-algorithms/)
