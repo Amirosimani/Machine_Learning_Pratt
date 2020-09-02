@@ -9,9 +9,9 @@
 - [Course Schedule](#course-schedule)
 - [Textbooks and Readings Materials](#textbooks-and-readings-materials)
 - [Readings and Discussions](#readings-and-discussions)
-  * [Week 1: Introduction – What is Machine Learning?](#week-1--introduction---what-is-machine-learning-)
+  * [Week 1: Introduction – What is Machine Learning?](###week-1--introduction---what-is-machine-learning-)
   * [Week 2: Data, Bias, Communication](#week-2--data--bias--communication)
-  * [Week 3: Intro to Supervised Learning - Linear Models](#week-3--intro-to-supervised-learning---linear-models)
+  * [Week 3: Intro to Supervised Learning - Linear Models](###week-3--intro-to-supervised-learning---linear-models)
   * [Week 4: Supervised Learning  cont. - Trees, Forests, Ensembles](#week-4--supervised-learning--cont---trees--forests--ensembles)
   * [Week 5: Unsupervised learning - Clustering, Dimensionality Reduction](#week-5--unsupervised-learning---clustering--dimensionality-reduction)
   * [Week 6: Project planning](#week-6--project-planning)
@@ -93,7 +93,7 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Week 1: Introduction – What is Machine Learning?
 
-* Noah Lorang (2016) [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-thats-a-good-thing/)t.
+* Noah Lorang (2016) [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-thats-a-good-thing/).
 * David Donoho (2017) [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734), Journal of Computational and Graphical Statistics, 26:4, 745-766.
 * Meredith Broussard, Artificial Unintelligence, ch.2-3 (13-39)
 * Gideon Lewis-Kraus (2016) [“The Great A.I. Awakening”](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
