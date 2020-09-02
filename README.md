@@ -8,7 +8,7 @@
 - [Course Description](#course-description)
 - [Course Schedule](#course-schedule)
 - [Textbooks and Readings Materials](#textbooks-and-readings-materials)
-* [Readings and Discussions](#readings-and-discussions)
+- [Readings and Discussions](#readings-and-discussions)
       * [Week 1: Introduction – What is Machine Learning?](#we ek-1--introduction---what-is-machine-learning-)
   * [Week 2: Data, Bias, Communication](#week-2--data--bias--communication)
   * [Week 3: Intro to Supervised Learning - Linear Models](#week-3--intro-to-supervised-learning---linear-models)
