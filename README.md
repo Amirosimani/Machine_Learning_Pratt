@@ -51,9 +51,9 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | Week | Session                                                                | Lab                                                                        | Assignment       |
 |------|------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------|
 | 1    | Introduction – What is Machine Learning?                               | Getting started with Python, Git                                           | -                |
-| 2    | Data, Bias, Communication                                              | Working with data in Python, Visualization                                 | #1 TBD           |
+| 2    | Data, Bias, Communication                                              | Working with data in Python, Visualization                                 | #1 Exploring MoMA collection           |
 | 3    | Intro to Supervised Learning - Linear Models                           | Supervised learning in Python with scikit-learn                            | -                |
-| 4    | Supervised Learning cont. - Trees, Forests, Ensembles                  | Supervised learning in Python with scikit-learn                            | #2 TBD           |
+| 4    | Supervised Learning cont. - Trees, Forests, Ensembles                  | Supervised learning in Python with scikit-learn                            | #2 Credit Card Approval           |
 | 5    | Unsupervised learning - Clustering, Dimensionality Reduction           | Unsupervised learning in Python with scikit-learn                          | -                |
 | 6    | Project planning                                                       | Project Workshop                                                           | Project Proposal |
 | 7    | NO CLASS - Midterm break                                               | -                                                                          | -                |
