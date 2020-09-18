@@ -16,3 +16,34 @@ The goal of this assignment is to allow you to work with data, explore it, and v
 
 
 You are free to use any tool (**except for Excel** :poop:) to explore either dataset. I suggest using python especially if you haven't used it before. 
+
+
+
+## How to submit?
+
+Treat your repo similar to a folder on dropbox or drive and `push` any content you produced for your assignment. The content can be jupyter notebooks, jpg, etc.
+
+Your submissions should be self-explanatory on their own. Imagine you are publishing an article and your audience doesn't have access to you to ask any questions. To do so, you can:
+
+* If you are submitting a `notebook`, you can have `markdown` cells (as oppose to `code`) which you can use to explain anything you like.
+* If you are **not** submitting a `notebook`, make sure you update the `readme.md` file with any explanations you think is necessary.
+
+There are many resources on good practices of organizing your git repos(like [this](https://github.com/drivendata/cookiecutter-data-science)). A simple standardized structure is like:
+
+```
+├── README.md          <- The top-level README for this project.
+│
+├── data               <- All raw and processed data goes here.
+│
+├── models             <- Trained and serialized models, model predictions, or model summaries
+│
+├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+│                         the creator's initials, and a short `-` delimited description, e.g.
+│                         `1.0-jqp-initial-data-exploration`.
+│
+├── img                <- Generated graphics and figures to be used in reporting
+│
+├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+                          generated with `pip freeze > requirements.txt`
+
+```
