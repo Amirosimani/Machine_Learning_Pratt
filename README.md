@@ -3,7 +3,7 @@
      style="float: left; margin-right: 10px;" />
 
 # Machine Learning Course
-**INFO 656-01 - Fall 2020**
+**INFO 656-01 - Fall 2020/2021**
 
 - [Course Description](#course-description)
 - [Course Schedule](#course-schedule)
@@ -55,9 +55,9 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | 3    | Intro to Supervised Learning - Linear Models                           | Supervised learning in Python with scikit-learn                            | -                |
 | 4    | Supervised Learning cont. - Trees, Forests, Ensembles                  | Supervised learning in Python with scikit-learn                            | #2 Credit Card Approval           |
 | 5    | Unsupervised learning - Clustering, Dimensionality Reduction           | Unsupervised learning in Python with scikit-learn                          | -                |
-| 6    | Project planning                                                       | Project Workshop                                                           | Project Proposal |
-| 7    | NO CLASS - Midterm break                                               | -                                                                          | -                |
-| 8    | Model Pipelines: Evaluation, Tuning, Feature Processing                | End to End ML pipeline                                                     | #3 TBD           |
+| 6   | Model Pipelines: Evaluation, Tuning, Feature Processing                | End to End ML pipeline                                                     | #3 TBD           |
+| 7    | Project planning                                                       | Project Workshop                                                           | Project Proposal |
+| 8    | NO CLASS - Midterm break                                               | -                                                                          | -                |
 | 9    | Neural Networks                                                        | Neural Network with PyTorch [TBD], Sequential models                       | -                |
 | 10   | Neural Networks - cont.                                                | Neural Network with PyTorch [TBD], Advanced models: Convolution, Recurrent | #4 TBD           |
 | 11   | ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs      | Cloud infrastructure (AWS) [TBD], Working with APIs                        | -                |
@@ -95,84 +95,78 @@ Students who are not motivators for the week are expected to complete the readin
 
 * Noah Lorang (2016) [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-thats-a-good-thing/).
 * David Donoho (2017) [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734), Journal of Computational and Graphical Statistics, 26:4, 745-766.
-* Meredith Broussard, Artificial Unintelligence, ch.2-3 (13-39)
-* Gideon Lewis-Kraus (2016) [“The Great A.I. Awakening”](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
+* Paul Ford (2015) [“What is Code?”](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 
 ### Week 2: Data, Bias, Communication
 
-* Paul Ford (2015) [“What is Code?”](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* Wickham, H. (2014). [Tidy Data. Journal of Statistical Software](https://www.jstatsoft.org/article/view/v059i10), 59(10), pp 1 - 23. 
 * Lisa Gitelman (ed.) (2013) [“Raw Data” Is an Oxymoron".](http://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf) introduction (1-14)
 * Andrey Kurenkov (2020) [Lessons from the pulse model](https://thegradient.pub/pulse-lessons/)
-* Wickham, H. (2014). [Tidy Data. Journal of Statistical Software](https://www.jstatsoft.org/article/view/v059i10), 59(10), pp 1 - 23. 
 * Karen Hao (2019) [This is how AI bias really happens—and why it’s so hard to fix](https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/)
-* O'Neil, C. (2016). [The Ethical Data Scientist](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
-* Chun, W. H. K. (2005). O[n software, or the persistence of visual knowledge](https://www.academia.edu/779925/On_software_or_the_persistence_of_visual_knowledge). grey room, 26-51.
+* Wong, D. M. (2010). The Wall Street Journal guide to information graphics: The dos and don'ts of presenting data, facts, and figures. WW Norton.
+
 
 **Supplemental Material:**
-* Konold, C., Finzer, W., & Kreetong, K. (2017). [Modeling as a Core Component of Structuring Data. Statistics Education Research Journal](https://iase-web.org/documents/SERJ/SERJ16(2)_Konold.pdf), 16(2). 
-* [Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
-* Prabhu, V. U., & Birhane, A. (2020). [ image datasets: A pyrrhic win for computer vision?](https://arxiv.org/pdf/2006.16923)
+* Chun, W. H. K. (2005). O[n software, or the persistence of visual knowledge](https://www.academia.edu/779925/On_software_or_the_persistence_of_visual_knowledge). grey room, 26-51.
 * Galloway, A. (2015). [“The Computational Decision”](http://cultureandcommunication.org/galloway/the-computational-decision)
-* Wong, D. M. (2010). The Wall Street Journal guide to information graphics: The dos and don'ts of presenting data, facts, and figures. WW Norton.
+* [Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
+
 
 
 ### Week 3: Intro to Supervised Learning - Linear Models
 
-* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 2.1 (15-28)
-* Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.1, 2.2 (27-84) [will discuss during the lab]
 * Stephanie Yee and Tony Chu, [“A visual introduction to machine learning”](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ )
-* Gene Kogan and Francis Tseng, [“Fundamentals, introduction to machine learning”](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/fundamentals.ipynb )
 * Daly, L. (2017) [“AI Literacy: The basics of machine learning”](https://worldwritable.com/ai-literacy-the-basics-of-machine-learning-2e20f93e34b4)
-* Elish, M.C. & Hwang T., [An AI Pattern Language](https://datasociety.net/pubs/ia/AI_Pattern_Language.pdf). Chapter 1 (1-13)
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 5.1 (96-105)
+* Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.1, 2.2 (27-84) [will discuss during the lab]
 
 
 **Supplemental Material:**
 * Khan Academy, “[Least-squares regression equations”](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/introduction-to-residuals-and-least-squares-regression) (MOOC module, playlist) 
+* Elish, M.C. & Hwang T., [An AI Pattern Language](https://datasociety.net/pubs/ia/AI_Pattern_Language.pdf). Chapter 1 (1-13)
+* Gene Kogan and Francis Tseng, [“Fundamentals, introduction to machine learning”](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/fundamentals.ipynb )
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 2.1 (15-28)
+
 
 
 ### Week 4: Supervised Learning  cont. - Trees, Forests, Ensembles
 
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 8 (303-332)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.3 (31-121)
-* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 5.1 (96-105)
-* Chris Deotte, [“Classifier Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
 
 
 **Supplemental Material:**
-* Elish, M.C. & Hwang T., [An AI Pattern Language](https://datasociety.net/pubs/ia/AI_Pattern_Language.pdf). Chapter 2 (16-33)
+* Chris Deotte, [“Classifier Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
 
 
 ### Week 5: Unsupervised learning - Clustering, Dimensionality Reduction
 
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 10 (373-412)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 3 (133-210)
-* Kearns, M., & Roth, A. (2019). The ethical algorithm: The science of socially aware algorithm design. Oxford University Press., chapter 1
 
 
 **Supplemental Material:**
-* Nicolas Papernot, N., & Goodfellow, I. (2018) [Privacy and ML, two unexpected allies](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
-* Ji, Z., Lipton, Z. C., & Elkan, C. (2014). [Differential privacy and machine learning: a survey and review](https://arxiv.org/pdf/1812.02282.pdf). arXiv preprint arXiv:1412.7584. 
+* Elish, M.C. & Hwang T., [An AI Pattern Language](https://datasociety.net/pubs/ia/AI_Pattern_Language.pdf). Chapter 2 (16-33)
 
-### Week 6: Project planning 
-
-* Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
-* Lovejoy, J. & Holbrook, J. (2017). [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
-•   Kearns, M., & Roth, A. (2019). The ethical algorithm: The science of socially aware algorithm design. Oxford University Press., chapter 2
-
-**Supplemental Material:**
-* Example projects and resources: https://www.are.na/achim-koh/ml-design-ish (The linked list is a preliminary one and will be updated; also, the examples are meant primarily as inspirations, and do not indicate what the final project should look like)
-
-
-### Week7: NO CLASS - Midterm break
-
-
-### Week 8: Model Pipelines: Evaluation, Tuning, Feature Processing
+### Week 6: Model Pipelines: Evaluation, Tuning, Feature Processing
 
 * James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). Chapter 2.2 (28-42)
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 5 (253-304)
 * O'neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. ch.1 (1-31) & ch. 8 (141-160)
 
+### Week 7: Project planning 
+
+* Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
+* Lovejoy, J. & Holbrook, J. (2017). [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
+* Kearns, M., & Roth, A. (2019). The ethical algorithm: The science of socially aware algorithm design. Oxford University Press., chapter 1
+* Manovic, L. (2019). [AI Aesthetics](http://manovich.net/index.php/projects/ai-aesthetics). Strelka Press.
+
+**Supplemental Material:**
+* Example projects and resources: https://www.are.na/achim-koh/ml-design-ish (The linked list is a preliminary one and will be updated; also, the examples are meant primarily as inspirations, and do not indicate what the final project should look like)
+
+
+### Week8: NO CLASS - Midterm break
 
 ### Week 9: Neural networks
 
@@ -224,6 +218,8 @@ Students who are not motivators for the week are expected to complete the readin
 * Diana ben-Aaron, [“Weizenbaum examines computers and society”](http://tech.mit.edu/V105/N16/weisen.16n.html)
 * Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 * Podcast: [Peter Wang (part 1/2): CEO/founder Anaconda, Creator of PyData](https://podcasts.apple.com/us/podcast/peter-wang-part-1-2-ceo-founder-anaconda-creator-of-pydata/id1478016790?i=1000459268650)
+* Nicolas Papernot, N., & Goodfellow, I. (2018) [Privacy and ML, two unexpected allies](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
+* Ji, Z., Lipton, Z. C., & Elkan, C. (2014). [Differential privacy and machine learning: a survey and review](https://arxiv.org/pdf/1812.02282.pdf). arXiv preprint arXiv:1412.7584. 
 
 
 ### Week 13: Labor and Machine Learning
