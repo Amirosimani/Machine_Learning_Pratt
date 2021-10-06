@@ -56,8 +56,9 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | 4    | Supervised Learning cont. - Trees, Forests, Ensembles                  | Supervised learning in Python with scikit-learn                            |          |
 | 5    | Unsupervised learning - Clustering, Dimensionality Reduction           | Unsupervised learning in Python with scikit-learn                          | #2 Credit Card Approval                 |
 | 6   | Model Pipelines: Evaluation, Tuning, Feature Processing                | End to End ML pipeline                                                     |            |
-| 7    | Project planning                                                       | Project Workshop                                                           | Project Proposal |
-| 8    | NO CLASS - Midterm break                                               | -                                                                          | -                |
+| 7    | NO CLASS - Midterm break                                               | 
+| 8    | Project planning                                                       | Project Workshop                                                           | Project Proposal |
+-                                                                          | -                |
 | 9    | Neural Networks                                                        | Neural Network with PyTorch [TBD], Sequential models                       | -                |
 | 10   | Neural Networks - cont.                                                | Neural Network with PyTorch [TBD], Advanced models: Convolution, Recurrent |            |
 | 11   | ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs      | Cloud infrastructure (AWS) [TBD], Working with APIs                        | -                |
