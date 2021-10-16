@@ -15,8 +15,8 @@
   + [Week 4: Supervised Learning  cont. - Trees, Forests, Ensembles](#week-4--supervised-learning--cont---trees--forests--ensembles)
   + [Week 5: Unsupervised learning - Clustering, Dimensionality Reduction](#week-5--unsupervised-learning---clustering--dimensionality-reduction)
   + [Week 6: Model Pipelines: Evaluation, Tuning, Feature Processing](#week-6--model-pipelines--evaluation--tuning--feature-processing)
-  + [Week 7: Project planning](#week-7--project-planning)
-  + [Week8: NO CLASS - Midterm break](#week8--no-class---midterm-break)
+  + [Week 7: NO CLASS - Midterm break](#week-7--no-class---midterm-break)
+  + [Week 8: Project planning](#week-8--project-planning)
   + [Week 9: Neural networks](#week-9--neural-networks)
   + [Week 10: Neural Networks - cont.](#week-10--neural-networks---cont)
   + [Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs](#week-11--ml-ecosystem---cloud--mlops--production--pre-trained-models--apis)
@@ -155,7 +155,10 @@ Students who are not motivators for the week are expected to complete the readin
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 5 (253-304)
 * O'neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. ch.1 (1-31) & ch. 8 (141-160)
 
-### Week 7: Project planning 
+### Week 7: NO CLASS - Midterm break
+
+
+### Week 8: Project planning 
 
 * Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 * Lovejoy, J. & Holbrook, J. (2017). [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
@@ -166,28 +169,24 @@ Students who are not motivators for the week are expected to complete the readin
 * Example projects and resources: https://www.are.na/achim-koh/ml-design-ish (The linked list is a preliminary one and will be updated; also, the examples are meant primarily as inspirations, and do not indicate what the final project should look like)
 
 
-### Week8: NO CLASS - Midterm break
-
 ### Week 9: Neural networks
 
+* * 3Blue1Brown, “[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)” (YouTube playlist) 
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.3.8 (106-121)
-* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 6, 7.8
-* The Coding Train, “[10: Neural Networks - The Nature of Code”](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) (YouTube playlist)
-* 3Blue1Brown, “[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)” (YouTube playlist) 
-* Daniel Smilkov and Shan Carter, [“A Neural Network Playground”](https://playground.tensorflow.org/)
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 6
+* * Chris Deotte, [“Neural Network Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/neuralnetwork.html)
+
 
 **Supplemental Material:**
-* Cathy O'Neil. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Broadway Books. Conclusion (199-218)
+* The Coding Train, “[Neural Networks - The Nature of Code”](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) (YouTube playlist)
 
 ### Week 10: Neural Networks - cont.
-
-* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 9, 10, 11
-* Chris Deotte, [“Neural Network Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/neuralnetwork.html)
-* Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
+* Daniel Smilkov and Shan Carter, [“A Neural Network Playground”](https://playground.tensorflow.org/)
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 9
 * Andrew Ng. [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
 
 **Supplemental Material:**
-* [Machine Learning with Differential Privacy in TF](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
+* * Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
 
 ### Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs
 
