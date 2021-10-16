@@ -171,10 +171,10 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Week 9: Neural networks
 
-* * 3Blue1Brown, “[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)” (YouTube playlist) 
+* 3Blue1Brown, “[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)” (YouTube playlist) 
 * Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists.". Chapter 2.3.8 (106-121)
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 6
-* * Chris Deotte, [“Neural Network Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/neuralnetwork.html)
+* Chris Deotte, [“Neural Network Playground”](http://www.ccom.ucsd.edu/~cdeotte/programs/neuralnetwork.html)
 
 
 **Supplemental Material:**
@@ -186,7 +186,7 @@ Students who are not motivators for the week are expected to complete the readin
 * Andrew Ng. [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
 
 **Supplemental Material:**
-* * Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
+* Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
 
 ### Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs
 
@@ -209,6 +209,7 @@ Students who are not motivators for the week are expected to complete the readin
 * Roelof Pieters and Samim Winiger, [“Creative AI: On the Democratization & Escalation of Creativity”](https://medium.com/@creativeai/creativeai-9d4b2346faf3)
 * [coding is for everyone - as long as you speak english](https://www.wired.com/story/coding-is-for-everyoneas-long-as-you-speak-english/)
 * [is your algorithm racist?](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631/)
+* Cathy O'Neil. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Broadway Books. Conclusion (199-218)
 
 
 
@@ -265,7 +266,7 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Revisions to the Syllabus
 
-All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2020.
+All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2021.
 
 -----
 ## Lab assignments
