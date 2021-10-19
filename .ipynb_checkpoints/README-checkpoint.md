@@ -19,10 +19,10 @@
   + [Week 8: Project planning](#week-8--project-planning)
   + [Week 9: Neural networks](#week-9--neural-networks)
   + [Week 10: Neural Networks - cont.](#week-10--neural-networks---cont)
-  + [Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs](#week-11--ml-ecosystem---cloud--mlops--production--pre-trained-models--apis)
+  + [Week 11: ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs](#week-11--ml-ecosystem---cloud--mlops--production--pre-trained-models--apis)
   + [Week 12: Human-Centric AI, Fairness](#week-12--human-centric-ai--fairness)
   + [Week 13: Labor and Machine Learning](#week-13--labor-and-machine-learning)
-  + [Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, Open Source](#week-14--be-a-good-engineer--software-abstraction--reproducibility--open-source)
+  + [Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, MLOps, Production](#week-14--be-a-good-engineer--software-abstraction--reproducibility--open-source)
   + [Week 15: Industry and Career](#week-15--industry-and-career)
   + [Week 16: Presentations](#week-16--presentations)
   + [Revisions to the Syllabus](#revisions-to-the-syllabus)
@@ -60,10 +60,10 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | 8    | Project planning       | Project Workshop        | Project Proposal |
 | 9    | Neural Networks      | Neural Network with PyTorch [TBD], Sequential models         | -     |
 | 10   | Neural Networks - cont.       | Neural Network with PyTorch [TBD], Advanced models: Convolution, Recurrent |     |
-| 11   | ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs | Cloud infrastructure (AWS) [TBD], Working with APIs | - |
+| 11   | ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs | Working with APIs | - |
 | 12   | Human-Centric AI, Fairness   | TBD    | -  |
 | 13   | Labor and Machine Learning   | TBD         | -      |
-| 14   | Be a Good Engineer! Software Abstraction, Reproducibility, Open Source | TBD   | -     |
+| 14   | Be a Good Engineer! Software Abstraction, Reproducibility, MLOps, Production | TBD   | -     |
 | 15   | Industry and Career       | TBD        | -|
 | 16   | Presentations     | -     | -          |
 
@@ -187,11 +187,10 @@ Students who are not motivators for the week are expected to complete the readin
 **Supplemental Material:**
 * Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
 
-### Week 11: ML Ecosystem - Cloud, MLOps, Production, Pre-Trained Models, APIs
-
+### Week 11: ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs
+* [Machine learning in the cloud is helping businesses innovate](https://www.technologyreview.com/2021/10/15/1037291/machine-learning-in-the-cloud-is-helping-businesses-innovate/)
 * [Why Is Open-Source So Important? Part One: Principles And Parity](https://www.forbes.com/sites/charlestowersclark/2019/09/24/why-is-open-source-so-important-part-one-principles-and-parity/#5882840961f7)
 * Andrew Ng. [Transfer Learning](https://www.youtube.com/watch?v=yofjFQddwHE)
-* [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
 
 **Supplemental Material:**
@@ -233,7 +232,6 @@ Students who are not motivators for the week are expected to complete the readin
 * [Algorithmic Management in the workplace](https://datasociety.net/wp-content/uploads/2019/02/DS_Algorithmic_Management_Explainer.pdf)
 
 
-
 **Supplemental Material:**
 * Shannon Mattern, [“Maintenance and Care”](https://placesjournal.org/article/maintenance-and-care/)
 * Rosenblat, A. (2018). Uberland: How algorithms are rewriting the rules of work. Univ of California Press.
@@ -241,25 +239,28 @@ Students who are not motivators for the week are expected to complete the readin
 * Astra Taylor, [“The Automation Charade”](https://logicmag.io/failure/the-automation-charade/)
 * [Ensmenger N., Aspray W. (2002) Software as Labor Process. In: Hashagen U., Keil-Slawik R., Norberg A.L. (eds) History of Computing: Software Issues. Springer, Berlin, Heidelberg](https://www.sas.upenn.edu/~nathanen/files/ensmenger2002.pdf).
 
-### Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, Open Source
+
+### Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, MLOps, Production
 * Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 * Causey, Tray. [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 * [Production ML systems](https://developers.google.com/machine-learning/crash-course/production-ml-systems)
+* [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+
 
 **Supplemental Material:**
 * Justin Kitzes, Daniel Turek, Fatma Deniz (2018). [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org)
 * Cooper, Z. (2020) [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
 * [Docker for Data Science](https://www.kdnuggets.com/2018/01/docker-data-science.html)
 
-### Week 15: Industry and Career
 
-* Shana Lynch, “[Andrew Ng: Why AI Is the New Electricity”](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity)
+### Week 15: Industry and Career
 * [Market your data science like a product](https://medium.com/indeed-engineering/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55)
 * Caitlin Hudon (2018). [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/)
 * Podcast: [Getting Your First Data Science Job](https://www.datacamp.com/community/podcast/getting-your-first-data-science-job) (with Chris Albon). 
 * [What Data Scientists Really Do, According to 35 Data Scientists](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists)
 
 **Supplemental Material:**
+* Shana Lynch, “[Andrew Ng: Why AI Is the New Electricity”](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity)
 * [Doing data science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)
 
 
