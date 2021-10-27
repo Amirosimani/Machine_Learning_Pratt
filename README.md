@@ -216,22 +216,18 @@ Students who are not motivators for the week are expected to complete the readin
 
 
 ### Week 13: Labor and Machine Learning
-* Madeleine Clare Elish and Elizabeth Anne Watkins[REPAIRING INNOVATION, A Study of Integrating AI in Clinical Care](https://datasociety.net/library/repairing-innovation/)
-* Siddhartha Mukherjee, [“AI Versus MD”](http://web.archive.org/web/20170427141526/http://www.newyorker.com/magazine/2017/04/03/ai-versus-md) 
-* [where will predictive text take us?](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker)
-* [How three French students used borrowed code to put the first AI portrait in Christie’s](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)
 * Kate Crawford and Vladan Joler, [Anatomy of an AI System](https://anatomyof.ai/)
 * Cade Metz, [“A.I. Is Learning From Humans. Many Humans.”](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
-* [Why Are Good Jobs Disappearing if Robots Aren’t Taking Them?](https://points.datasociety.net/why-are-good-jobs-disappearing-if-robots-arent-taking-them-9f8d4845302a) Part I and II
 * [Algorithmic Management in the workplace](https://datasociety.net/wp-content/uploads/2019/02/DS_Algorithmic_Management_Explainer.pdf)
+* [Sepsis Watch in Practice.](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe)
 
 
 **Supplemental Material:**
-* Shannon Mattern, [“Maintenance and Care”](https://placesjournal.org/article/maintenance-and-care/)
-* Rosenblat, A. (2018). Uberland: How algorithms are rewriting the rules of work. Univ of California Press.
-* [Sepsis Watch in Practice.](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe)
+* Siddhartha Mukherjee, [“AI Versus MD”](http://web.archive.org/web/20170427141526/http://www.newyorker.com/magazine/2017/04/03/ai-versus-md) 
+* [where will predictive text take us?](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker)
+* [How three French students used borrowed code to put the first AI portrait in Christie’s](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)
 * Astra Taylor, [“The Automation Charade”](https://logicmag.io/failure/the-automation-charade/)
-* [Ensmenger N., Aspray W. (2002) Software as Labor Process. In: Hashagen U., Keil-Slawik R., Norberg A.L. (eds) History of Computing: Software Issues. Springer, Berlin, Heidelberg](https://www.sas.upenn.edu/~nathanen/files/ensmenger2002.pdf).
+* Rosenblat, A. (2018). Uberland: How algorithms are rewriting the rules of work. Univ of California Press.
 
 
 ### Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, MLOps, Production
