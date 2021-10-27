@@ -203,10 +203,6 @@ Students who are not motivators for the week are expected to complete the readin
 * Anette Zimmermann, Elena di Rosa, Hochan Kim, [Technology Can't Fix Algorithmic Injustice](http://bostonreview.net/science-nature-politics/annette-zimmermann-elena-di-rosa-hochan-kim-technology-cant-fix-algorithmic)
 * Alex Galloway, [“Are Algorithms Biased?”](http://cultureandcommunication.org/galloway/are-algorithms-biased)
 * West, S.M., Whittaker, M. and Crawford, K. (2019). [Discriminating Systems: Gender, Race and Power in AI. AI Now Institute](https://ainowinstitute.org/discriminatingsystems.pdf)
-* Blaise Agüera y Arcas, Margaret Mitchell and Alexander Todorov, [“Physiognomy’s New Clothes”](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
-* Shannon Mattern, [“The Ethics of Automating Design”](https://wordsinspace.net/shannon/2019/02/13/the-ethics-of-automating-design/)
-* Roelof Pieters and Samim Winiger, [“Creative AI: On the Democratization & Escalation of Creativity”](https://medium.com/@creativeai/creativeai-9d4b2346faf3)
-* [coding is for everyone - as long as you speak english](https://www.wired.com/story/coding-is-for-everyoneas-long-as-you-speak-english/)
 * [is your algorithm racist?](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631/)
 * Cathy O'Neil. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Broadway Books. Conclusion (199-218)
 
@@ -215,10 +211,8 @@ Students who are not motivators for the week are expected to complete the readin
 **Supplemental Material:**
 * Julia Angwin et al., [“Machine Bias”](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * Diana ben-Aaron, [“Weizenbaum examines computers and society”](http://tech.mit.edu/V105/N16/weisen.16n.html)
-* Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 * Podcast: [Peter Wang (part 1/2): CEO/founder Anaconda, Creator of PyData](https://podcasts.apple.com/us/podcast/peter-wang-part-1-2-ceo-founder-anaconda-creator-of-pydata/id1478016790?i=1000459268650)
 * Nicolas Papernot, N., & Goodfellow, I. (2018) [Privacy and ML, two unexpected allies](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
-* Ji, Z., Lipton, Z. C., & Elkan, C. (2014). [Differential privacy and machine learning: a survey and review](https://arxiv.org/pdf/1812.02282.pdf). arXiv preprint arXiv:1412.7584. 
 
 
 ### Week 13: Labor and Machine Learning
