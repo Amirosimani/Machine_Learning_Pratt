@@ -2,5 +2,6 @@ numpy==1.21.4
 tqdm==4.62.3
 scikit-learn==1.0.1
 tensorflow==2.7.0
+torch==1.10.0
 transformers==4.12.3
 datasets==1.15.1
