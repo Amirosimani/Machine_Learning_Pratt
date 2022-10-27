@@ -23,9 +23,11 @@ Your solution should have the following steps:
 
 3- **non-linear model**: also fit a non-linear model of your choice to compare the result
 
-4- **ensemble model**: use any of the discussed ensemble methods to create a new model based on step 2 and 3
+4-  Now that you have built and trained initial models, add preprocessing steps including an imputation method to handle missing values, also run a grid search to tune your model's hyperparameters. 
 
-5- Use the model from step 4 to create a fucntion called `credit_approval` that takes a single row of data and predict if a credit card will be granted or not. It should looklike something like below.
+5- You should report the accuracy of the best set of parameters, describe the precision/recall of your top-performing model using both the precision-recall curve, and the confusion matrix.
+
+6- Use the best model from step 4 to create a fucntion called `credit_approval` that takes a single row of data and predict if a credit card will be granted or not. It should looklike something like below.
 
 ```
 def credit_approval(row, model):
