@@ -51,15 +51,15 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | Week | Session                                                                | Lab       | Assignment       |
 |------|------------------------------------------------------------------------|-----------|------------------|
 | 1    | Introduction – What is Machine Learning?                               | Getting started with Python, Git   | - |
-| 2    | Data, Bias, Communication          | Working with data in Python, Visualization    | #1 Exploring MoMA collection |
+| 2    | Data, Bias, Communication          | Working with data in Python, Visualization    | #1 Exploratroy Data Analysis |
 | 3    | Intro to Supervised Learning - Linear Models | Supervised learning in Python with scikit-learn  | -       |
 | 4    | Supervised Learning cont. - Trees, Forests, Ensembles | Supervised learning in Python with scikit-learn   |    |
-| 5    | Unsupervised learning - Clustering, Dimensionality Reduction   | Unsupervised learning in Python with scikit-learn | #2 Credit Card Approval  |
+| 5    | Unsupervised learning - Clustering, Dimensionality Reduction   | Unsupervised learning in Python with scikit-learn | #2 Surpvised Model  |
 | 6   | Model Pipelines: Evaluation, Tuning, Feature Processing | End to End ML pipeline      |      |
 | 7    | NO CLASS - Midterm break                                               | -      | -     |
 | 8    | Project planning       | Project Workshop        | Project Proposal |
-| 9    | Neural Networks      | Neural Network with PyTorch [TBD], Sequential models         | -     |
-| 10   | Neural Networks - cont.       | Neural Network with PyTorch [TBD], Advanced models: Convolution, Recurrent |     |
+| 9    | Neural Networks      | Neural Network, Sequential models         | -     |
+| 10   | Neural Networks - cont.       | Neural Network, Advanced models: Convolution |  Neural Networks   |
 | 11   | ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs | Working with APIs | - |
 | 12   | Human-Centric AI, Fairness   | TBD    | -  |
 | 13   | Labor and Machine Learning   | TBD         | -      |
