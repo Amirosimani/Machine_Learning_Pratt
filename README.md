@@ -59,7 +59,7 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | 7    | NO CLASS - Midterm break                                               | -      | -     |
 | 8    | Project planning       | Project Workshop        | Project Proposal |
 | 9    | Neural Networks      | Neural Network, Sequential models         | -     |
-| 10   | Neural Networks - cont.       | Neural Network, Advanced models: Convolution |  Neural Networks   |
+| 10   | Neural Networks - cont.       | Neural Network, Advanced models: Convolution |  #3 Neural Networks   |
 | 11   | ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs | Working with APIs | - |
 | 12   | Human-Centric AI, Fairness   | TBD    | -  |
 | 13   | Labor and Machine Learning   | TBD         | -      |
