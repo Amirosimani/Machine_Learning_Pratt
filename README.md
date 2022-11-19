@@ -158,7 +158,7 @@ Students who are not motivators for the week are expected to complete the readin
 ### Week 7: NO CLASS - Midterm break
 
 
-### Week 8: Project planning 
+### Week 8: Project planning
 
 * Patrick Hebron, [“Rethinking Design Tools in the Age of Machine Learning”](https://medium.com/artists-and-machine-intelligence/rethinking-design-tools-in-the-age-of-machine-learning-369f3f07ab6c)
 * Lovejoy, J. & Holbrook, J. (2017). [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
@@ -202,12 +202,12 @@ Students who are not motivators for the week are expected to complete the readin
 
 * Anette Zimmermann, Elena di Rosa, Hochan Kim, [Technology Can't Fix Algorithmic Injustice](http://bostonreview.net/science-nature-politics/annette-zimmermann-elena-di-rosa-hochan-kim-technology-cant-fix-algorithmic)
 * Alex Galloway, [“Are Algorithms Biased?”](http://cultureandcommunication.org/galloway/are-algorithms-biased)
-* West, S.M., Whittaker, M. and Crawford, K. (2019). [Discriminating Systems: Gender, Race and Power in AI. AI Now Institute](https://ainowinstitute.org/discriminatingsystems.pdf)
 * [is your algorithm racist?](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631/)
 
 
 
 **Supplemental Material:**
+* West, S.M., Whittaker, M. and Crawford, K. (2019). [Discriminating Systems: Gender, Race and Power in AI. AI Now Institute](https://ainowinstitute.org/discriminatingsystems.pdf)
 * Julia Angwin et al., [“Machine Bias”](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * Diana ben-Aaron, [“Weizenbaum examines computers and society”](http://tech.mit.edu/V105/N16/weisen.16n.html)
 * Podcast: [Peter Wang (part 1/2): CEO/founder Anaconda, Creator of PyData](https://podcasts.apple.com/us/podcast/peter-wang-part-1-2-ceo-founder-anaconda-creator-of-pydata/id1478016790?i=1000459268650)
@@ -235,10 +235,10 @@ Students who are not motivators for the week are expected to complete the readin
 * Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 * Causey, Tray. [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 * [Production ML systems](https://developers.google.com/machine-learning/crash-course/production-ml-systems)
-* [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 
 
 **Supplemental Material:**
+* [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * Justin Kitzes, Daniel Turek, Fatma Deniz (2018). [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org)
 * Cooper, Z. (2020) [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
 * [Docker for Data Science](https://www.kdnuggets.com/2018/01/docker-data-science.html)
@@ -247,10 +247,10 @@ Students who are not motivators for the week are expected to complete the readin
 ### Week 15: Industry and Career
 * [Market your data science like a product](https://medium.com/indeed-engineering/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55)
 * Caitlin Hudon (2018). [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/)
-* Podcast: [Getting Your First Data Science Job](https://www.datacamp.com/community/podcast/getting-your-first-data-science-job) (with Chris Albon). 
 * [What Data Scientists Really Do, According to 35 Data Scientists](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists)
 
 **Supplemental Material:**
+* Podcast: [Getting Your First Data Science Job](https://www.datacamp.com/community/podcast/getting-your-first-data-science-job) (with Chris Albon). 
 * Shana Lynch, “[Andrew Ng: Why AI Is the New Electricity”](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity)
 * [Doing data science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)
 
