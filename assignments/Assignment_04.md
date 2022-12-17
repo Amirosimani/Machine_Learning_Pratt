@@ -4,7 +4,7 @@
 
 This assignment has two sections. Each section has multiple parts with their respective point in parentheses. 
 
-* First part is to build on what you have already done for **assignment 02**. Using the same `credit card approval` data, build a neural net classifier with 2 hidden layers and report the classifier performance using percision and recall. You are free to use any number of parameters, optimizer, dropout ratio, and so on. (40%)
+* First part is to build on what you have already done for **assignment 02**. Using the same `wine quality` data, build a neural net classifier with 2 hidden layers and report the classifier performance using percision and recall. You are free to use any number of parameters, optimizer, dropout ratio, and so on. (40%)
 
 * The second part is to classify images using CNN. The dataset for this excersise is [food images](https://www.kaggle.com/kmader/food41). (60%) Feel free to experiment with all the parameters like layer size, number of convolution layer, filter size, etc. 
 

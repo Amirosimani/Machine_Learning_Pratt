@@ -5,34 +5,31 @@
 
 Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming. Banks use machine learning to automate this process.
 
-In this project, you will build a credit card approval predictor using supervised machine learning techniques discussed during the class.
+In this project, you will build a **red wine quality classifier** using supervised machine learning techniques discussed during the class.
 
 
 ## Data
 
-The dataset used in this project is the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval) from the UCI Machine Learning Repository.
+The dataset used in this project is the [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) from the UCI Machine Learning Repository.
 
 
 ## Solution
 
 Your solution should have the following steps:
 
-1- **Exploratory data analysis:** check columns to understand datatypes, value ranges, find possible missing values, the correlation between features, and create relevant data visualization
+1. **Exploratory data analysis:** check columns to understand datatypes, value ranges, find possible missing values, the correlation between features, and create relevant data visualization
+2.  **Modeling**:
+   * create a sklearn pipeline  that includes preprocessing steps such as scaling and one hot encoding of categorical variable.
+   *  train a **Linear learner** (like logistic regression) classfier and report the performance using confusion matrix
+   *  train a**non-linear classifer** (like random forrest) and report the performance using confusion matrix.
+3. **Hyperparameter Tuning**: Pick the model with the highest F1 score and run agrid search to improve the result. Report the best set of parameters.
 
-2- **Linear learner**: create an ML pipeline with a linear model. Explicitly mention your model assumptions and what you did to make sure those assumptions hold
-
-3- **non-linear model**: also fit a non-linear model of your choice to compare the result
-
-4-  Now that you have built and trained initial models, add preprocessing steps including an imputation method to handle missing values, also run a grid search to tune your model's hyperparameters. 
-
-5- You should report the accuracy of the best set of parameters, describe the precision/recall of your top-performing model using both the precision-recall curve, and the confusion matrix.
-
-6- Use the best model from step 4 to create a fucntion called `credit_approval` that takes a single row of data and predict if a credit card will be granted or not. It should looklike something like below.
+4. Use the best model from step 3 to create a function that takes a single row of test data and predict the quality of wine. It should looklike something like below.
 
 ```
-def credit_approval(row, model):
+def wine_quality(row, model):
    """
-   Main function to take a sample data and use a trained model to predict if sample's application will get approved or not
+   Main function to take a sample data and use a trained model to predict wine quality
 
    row: sample data
    model: ensemble model you have already trained
