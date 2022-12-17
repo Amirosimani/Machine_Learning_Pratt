@@ -8,7 +8,6 @@ notebooks/.ipynb_checkpoints/
 personal_notes/
 labs/.ipynb_checkpoints/
 solutions/*
-assignments/*
 labs/data/*
 labs/data/
 labs/saved_model/*
