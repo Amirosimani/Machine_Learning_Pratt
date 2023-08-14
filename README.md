@@ -3,7 +3,7 @@
      style="float: left; margin-right: 10px;" />
 
 # Machine Learning Course
-**INFO 656-01 - Fall 2020/2021**
+**INFO 656-01 - Fall 2020/2023**
 
 - [Course Description](#course-description)
 - [Course Schedule](#course-schedule)
@@ -19,9 +19,9 @@
   + [Week 8: Project planning](#week-8--project-planning)
   + [Week 9: Neural networks](#week-9--neural-networks)
   + [Week 10: Neural Networks - cont.](#week-10--neural-networks---cont)
-  + [Week 11: ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs](#week-11--ml-ecosystem---cloud--mlops--production--pre-trained-models--apis)
-  + [Week 12: Human-Centric AI, Fairness](#week-12--human-centric-ai--fairness)
-  + [Week 13: Labor and Machine Learning](#week-13--labor-and-machine-learning)
+  + [Week 11: Week 11: ML Ecosystem - Cloud, Open-Source, APIs](#week-11--ml-ecosystem---cloud--mlops--production--pre-trained-models--apis)
+  + [Week 12: Week 12: GenAI - Prompt Engineering](#week-12--human-centric-ai--fairness)
+  + [Week 13: Week 13: Human-Centric AI: discussing Labor and Fairness in machine learning](#week-13--labor-and-machine-learning)
   + [Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, MLOps, Production](#week-14--be-a-good-engineer--software-abstraction--reproducibility--open-source)
   + [Week 15: Industry and Career](#week-15--industry-and-career)
   + [Week 16: Presentations](#week-16--presentations)
@@ -182,7 +182,7 @@ Students who are not motivators for the week are expected to complete the readin
 **Supplemental Material:**
 * Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
 
-### Week 11: ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs
+### Week 11: ML Ecosystem - Cloud, Open-Source, APIs
 * [Machine learning in the cloud is helping businesses innovate](https://www.technologyreview.com/2021/10/15/1037291/machine-learning-in-the-cloud-is-helping-businesses-innovate/)
 * [Why Is Open-Source So Important? Part One: Principles And Parity](https://www.forbes.com/sites/charlestowersclark/2019/09/24/why-is-open-source-so-important-part-one-principles-and-parity/#5882840961f7)
 * Andrew Ng. [Transfer Learning](https://www.youtube.com/watch?v=yofjFQddwHE)
@@ -192,13 +192,18 @@ Students who are not motivators for the week are expected to complete the readin
 * Podcast: [Jitendra Malik: Computer Vision](https://lexfridman.com/jitendra-malik/)
 * Podcast: [Data Science in the Cloud](https://www.datacamp.com/community/podcast/data-science-in-the-cloud) (with Paige Bailey). 
 
+### Week 12: GenAI - Prompt Engineering
 
-### Week 12: Human-Centric AI, Fairness
+
+### Week 13: Human-Centric AI: discussing Labor and Fairness in machine learning
 
 * Anette Zimmermann, Elena di Rosa, Hochan Kim, [Technology Can't Fix Algorithmic Injustice](http://bostonreview.net/science-nature-politics/annette-zimmermann-elena-di-rosa-hochan-kim-technology-cant-fix-algorithmic)
 * Alex Galloway, [“Are Algorithms Biased?”](http://cultureandcommunication.org/galloway/are-algorithms-biased)
 * [is your algorithm racist?](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631/)
-
+* Kate Crawford and Vladan Joler, [Anatomy of an AI System](https://anatomyof.ai/)
+* Cade Metz, [“A.I. Is Learning From Humans. Many Humans.”](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
+* [Algorithmic Management in the workplace](https://datasociety.net/wp-content/uploads/2019/02/DS_Algorithmic_Management_Explainer.pdf)
+* [Sepsis Watch in Practice.](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe)
 
 
 **Supplemental Material:**
@@ -208,17 +213,6 @@ Students who are not motivators for the week are expected to complete the readin
 * Podcast: [Peter Wang (part 1/2): CEO/founder Anaconda, Creator of PyData](https://podcasts.apple.com/us/podcast/peter-wang-part-1-2-ceo-founder-anaconda-creator-of-pydata/id1478016790?i=1000459268650)
 * Nicolas Papernot, N., & Goodfellow, I. (2018) [Privacy and ML, two unexpected allies](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 * Cathy O'Neil. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Broadway Books. Conclusion (199-218)
-
-
-
-### Week 13: Labor and Machine Learning
-* Kate Crawford and Vladan Joler, [Anatomy of an AI System](https://anatomyof.ai/)
-* Cade Metz, [“A.I. Is Learning From Humans. Many Humans.”](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
-* [Algorithmic Management in the workplace](https://datasociety.net/wp-content/uploads/2019/02/DS_Algorithmic_Management_Explainer.pdf)
-* [Sepsis Watch in Practice.](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe)
-
-
-**Supplemental Material:**
 * Siddhartha Mukherjee, [“AI Versus MD”](http://web.archive.org/web/20170427141526/http://www.newyorker.com/magazine/2017/04/03/ai-versus-md) 
 * [where will predictive text take us?](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker)
 * [How three French students used borrowed code to put the first AI portrait in Christie’s](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)
@@ -254,7 +248,7 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Revisions to the Syllabus
 
-All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2021.
+All changes will be communicated in class and the updated syllabus will be uploaded on Canvas. This version is current as of August 14, 2023.
 
 -----
 ## Lab assignments
@@ -269,7 +263,7 @@ I may also ask you to write down the amount of time you spent working on the ass
 ---
 
 ## Project proposal
-I will ask you to choose a topic that you would like to explore in your final project, and to submit a proposal by mid-semester.
+I will ask you to choose a topic that you would like to explore in your final project and to submit a proposal by mid-semester.
 
 On week 6, we will have an in-class activity where you will share your idea(s) and give peer feedback. Your 800- to 1200-word proposal is due by the end of the following, and should include:
 •   A description of the data you intend to use
