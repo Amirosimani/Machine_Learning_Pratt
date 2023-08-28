@@ -193,6 +193,8 @@ Students who are not motivators for the week are expected to complete the readin
 * Podcast: [Data Science in the Cloud](https://www.datacamp.com/community/podcast/data-science-in-the-cloud) (with Paige Bailey). 
 
 ### Week 12: GenAI - Prompt Engineering
+* [Large language models: their history, capabilities and limitations](https://snorkel.ai/large-language-models-llms/)
+* 
 
 
 ### Week 13: Human-Centric AI: discussing Labor and Fairness in machine learning
