@@ -15,12 +15,13 @@ The dataset used in this project is the [Wine Quality Dataset](https://archive.i
 
 Your solution should have the following steps:
 
-1. **Exploratory data analysis:** check columns to understand datatypes, value ranges, find possible missing values, the correlation between features, and create relevant data visualization
+1. **Exploratory data analysis:** check columns to understand datatypes, value ranges, find possible missing values, the correlation between features, distribution of target values, and create relevant data visualization.
 2.  **Modeling**:
     * create a sklearn pipeline  that includes preprocessing steps such as scaling and one hot encoding of categorical variable.
-    *  train a **Linear learner** (like logistic regression) classfier and report the performance using confusion matrix
-    *  train a**non-linear classifer** (like random forrest) and report the performance using confusion matrix.
-3. **Hyperparameter Tuning**: Pick the model with the highest F1 score and run agrid search to improve the result. Report the best set of parameters.
+    *  train a **Linear learner** (like logistic regression) classfier and report the performance using confusion matrix. Describe what the result in the confusion matrix.
+    *  train a**non-linear classifer** (like random forrest) and report the performance using confusion matrix. 
+       Compare the result between the linear and non-linear model and explain the difference in their performance.
+3. **Hyperparameter Tuning**: Pick the model with the highest **weighted average F1 score** and run a grid search to improve the result (using confusion matrix). Report back the best set of parameters.
 
 4. Use the best model from step 3 to create a function that takes a single row of test data and predict the quality of wine. It should looklike something like below.
 
