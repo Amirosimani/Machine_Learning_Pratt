@@ -11,8 +11,7 @@ This assignment has two sections. Each section has multiple parts with their res
 
 * The second part is to classify images using CNN. The dataset for this excersise is [food images](https://www.kaggle.com/kmader/food41) (50%). 
     - First, build a custom model with your choice of the parameters like layer size, number of convolution layer, filter size, etc.
-    - Then, take advantage of `transfer learning` by picking `Inception Net`
-
+    - Then, take advantage of `transfer learning` by using `EfficientNetB0` as your model. Compare the result and explain the difference with your own model.
 
 
 [IMPORTANT]: Please note that based on the size of your model and your laptop configuration, each epoch might take a few hours to finish. It will be helpful to run all the steps from data processing to training on a small subset of the data first (100 images). Once you confirmed that your code works, then you can run using all of the data.  
