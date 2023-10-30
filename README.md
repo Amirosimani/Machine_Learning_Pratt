@@ -182,7 +182,7 @@ Students who are not motivators for the week are expected to complete the readin
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 9
 
 
-### Week 11: ML Ecosystem - Cloud, Open-Source, APIs
+### Week 11: ML Ecosystem - Open-Source, Transferlearning, APIs
 * [Why Is Open-Source So Important? Part One: Principles And Parity](https://www.forbes.com/sites/charlestowersclark/2019/09/24/why-is-open-source-so-important-part-one-principles-and-parity/#5882840961f7)
 * Andrew Ng. [Transfer Learning](https://www.youtube.com/watch?v=yofjFQddwHE)
 
