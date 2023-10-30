@@ -176,14 +176,13 @@ Students who are not motivators for the week are expected to complete the readin
 
 ### Week 10: Neural Networks - cont.
 * Daniel Smilkov and Shan Carter, [“A Neural Network Playground”](https://playground.tensorflow.org/)
-* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 9
 * Andrew Ng. [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
 
 **Supplemental Material:**
-* Daniel Shiffman, ["The Nature of Code"](https://natureofcode.com/book/chapter-10-neural-networks/), ch.10 
+* Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. Chapter 9
+
 
 ### Week 11: ML Ecosystem - Cloud, Open-Source, APIs
-* [Machine learning in the cloud is helping businesses innovate](https://www.technologyreview.com/2021/10/15/1037291/machine-learning-in-the-cloud-is-helping-businesses-innovate/)
 * [Why Is Open-Source So Important? Part One: Principles And Parity](https://www.forbes.com/sites/charlestowersclark/2019/09/24/why-is-open-source-so-important-part-one-principles-and-parity/#5882840961f7)
 * Andrew Ng. [Transfer Learning](https://www.youtube.com/watch?v=yofjFQddwHE)
 
