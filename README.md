@@ -20,7 +20,7 @@
   + [Week 9: Neural networks](#week-9--neural-networks)
   + [Week 10: Neural Networks - cont.](#week-10--neural-networks---cont)
   + [Week 11: Week 11: ML Ecosystem - Cloud, Open-Source, APIs](#week-11--ml-ecosystem---cloud--mlops--production--pre-trained-models--apis)
-  + [Week 12: Week 12: GenAI - Prompt Engineering](#week-12--human-centric-ai--fairness)
+  + [Week 12: Week 12: Generative AI](#week-12--human-centric-ai--fairness)
   + [Week 13: Week 13: Human-Centric AI: discussing Labor and Fairness in machine learning](#week-13--labor-and-machine-learning)
   + [Week 14: Be a Good Engineer! Software Abstraction, Reproducibility, MLOps, Production](#week-14--be-a-good-engineer--software-abstraction--reproducibility--open-source)
   + [Week 15: Industry and Career](#week-15--industry-and-career)
@@ -191,9 +191,13 @@ Students who are not motivators for the week are expected to complete the readin
 * Podcast: [Jitendra Malik: Computer Vision](https://lexfridman.com/jitendra-malik/)
 * Podcast: [Data Science in the Cloud](https://www.datacamp.com/community/podcast/data-science-in-the-cloud) (with Paige Bailey). 
 
-### Week 12: GenAI - Prompt Engineering
+### Week 12: Generative AI
 * [Large language models: their history, capabilities and limitations](https://snorkel.ai/large-language-models-llms/)
-* 
+* [https://web.mit.edu/phillipi/www/writing/generative_models_of_images/index.html](https://web.mit.edu/phillipi/www/writing/generative_models_of_images/index.html)
+* [What is Prompt Engineering? A Detailed Guide](https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication)
+
+**Supplemental Material:**
+* [Midjourney vs Stable Diffusion: The Battle of AI Image Generators](https://www.unite.ai/midjourney-vs-stable-diffusion-the-battle-of-ai-image-generators/)
 
 
 ### Week 13: Human-Centric AI: discussing Labor and Fairness in machine learning
