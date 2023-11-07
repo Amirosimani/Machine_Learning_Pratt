@@ -12,3 +12,5 @@ labs/data/*
 labs/data/
 labs/saved_model/*
 labs/saved_model/
+./labs/data/*
+./labs/food-101/*
