@@ -192,12 +192,12 @@ Students who are not motivators for the week are expected to complete the readin
 * Podcast: [Data Science in the Cloud](https://www.datacamp.com/community/podcast/data-science-in-the-cloud) (with Paige Bailey). 
 
 ### Week 12: Generative AI
-* [Large language models: their history, capabilities and limitations](https://snorkel.ai/large-language-models-llms/)
-* [https://web.mit.edu/phillipi/www/writing/generative_models_of_images/index.html](https://web.mit.edu/phillipi/www/writing/generative_models_of_images/index.html)
-* [What is Prompt Engineering? A Detailed Guide](https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication)
+* [Casey, M. and Casey, M. (2023) Large language models: their history, capabilities and limitations.](https://snorkel.ai/large-language-models-llms/.)
+* [Generative models of images (no date).](https://web.mit.edu/phillipi/www/writing/generative_models_of_images/index.html.)
+* [Crabtree, M. (2023) What is Prompt Engineering? A Detailed Guide.](https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication.)
 
 **Supplemental Material:**
-* [Midjourney vs Stable Diffusion: The Battle of AI Image Generators](https://www.unite.ai/midjourney-vs-stable-diffusion-the-battle-of-ai-image-generators/)
+* [Sajid, H. (2023) Midjourney vs Stable Diffusion: The Battle of AI Image Generators.](https://www.unite.ai/midjourney-vs-stable-diffusion-the-battle-of-ai-image-generators/.)
 
 
 ### Week 13: Human-Centric AI: discussing Labor and Fairness in machine learning
