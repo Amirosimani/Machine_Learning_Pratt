@@ -60,9 +60,9 @@ This syllabus is a living document; expect it to evolve over the course of the s
 | 8    | Project planning       | Project Workshop        | Project Proposal |
 | 9    | Neural Networks      | Neural Network, Sequential models         | -     |
 | 10   | Neural Networks - cont.       | Neural Network, Advanced models: Convolution |  #3 Neural Networks   |
-| 11   | ML Ecosystem - Cloud, Open-Source, Pre-Trained Models, APIs | Working with APIs | - |
-| 12   | Human-Centric AI, Fairness   | TBD    | -  |
-| 13   | Labor and Machine Learning   | TBD         | -      |
+| 11   | ML Ecosystem - Cloud, Open-Source, APIs | Working with APIs | - |
+| 12   | Generative AI   | TBD    | -  |
+| 13   | Human-Centric AI: discussing Labor and Fairness in ML   | TBD         | -      |
 | 14   | Be a Good Engineer! Software Abstraction, Reproducibility, MLOps, Production | TBD   | -     |
 | 15   | Industry and Career       | TBD        | -|
 | 16   | Presentations     | -     | -          |
